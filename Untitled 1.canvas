@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a7c557cb65ab461b","x":-487,"y":-448,"width":250,"height":60,"type":"text","text":""},
+		{"id":"4f2f52d9bcf2eaea","x":-60,"y":-320,"width":400,"height":400,"type":"file","file":"attachments/Pasted image 20230701111848.png"},
+		{"id":"7b16539ab96837b6","x":-288,"y":-415,"width":250,"height":60,"type":"text","text":""},
+		{"id":"bf9c1c0551c9df1b","x":-520,"y":80,"width":249,"height":130,"type":"text","text":""},
+		{"id":"c2fe8d19514dd67a","x":-538,"y":-300,"width":250,"height":60,"type":"text","text":""},
+		{"id":"0e662ace95a106f0","x":160,"y":-120,"width":400,"height":400,"type":"file","file":"Software/Obsidian Date Formatting.md"}
+	],
+	"edges":[
+		{"id":"9f6488b46de90a76","fromNode":"bf9c1c0551c9df1b","fromSide":"top","toNode":"4f2f52d9bcf2eaea","toSide":"left"},
+		{"id":"4db06fe862044b3d","fromNode":"bf9c1c0551c9df1b","fromSide":"top","toNode":"c2fe8d19514dd67a","toSide":"bottom"},
+		{"id":"19dff2b2f4db1214","fromNode":"7b16539ab96837b6","fromSide":"bottom","toNode":"4f2f52d9bcf2eaea","toSide":"left"}
+	]
+}
