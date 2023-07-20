@@ -11,6 +11,7 @@ kanban-plugin: basic
 ## DoNow
 
 - [x] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04 ✅ 2023-07-19
+- [ ] replace A/C 📅 2023-07-20 ⏫ 
 
 
 ## Planning
@@ -44,7 +45,7 @@ kanban-plugin: basic
 
 - [x] start kanban board @{2023-06-19}
 - [x] unload dishes ✅ 2023-07-04
-- [ ] set up shared obsidian repo
+- [x] set up shared obsidian repo ✅ 2023-07-19
 - [x] barbeque burgers @{2023-07-04} 📅 2023-07-04 ✅ 2023-07-19
 - [x] prep for barbeque @{2023-07-04} 📅 2023-07-04 ✅ 2023-07-19
 
