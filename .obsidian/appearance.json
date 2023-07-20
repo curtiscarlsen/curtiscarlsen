@@ -1,4 +1,5 @@
 {
   "accentColor": "#6bedef",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 18
 }
