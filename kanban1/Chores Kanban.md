@@ -10,19 +10,18 @@ kanban-plugin: basic
 
 ## DoNow
 
-- [ ] Screen in bird feeders @{2023-06-19}
-- [ ] make lemon marmalade or lemon powder
+- [ ] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04
 
 
 ## Planning
 
 - [ ] paint eaves in laundry room @{2023-07-03}
+- [ ] Screen in bird feeders @{2023-06-19}
 - [ ] Kill pepper trees - one at a time @{2023-06-19}
 
 
 ## schedule
 
-- [ ] barbeque burgers @{2023-07-04}
 
 
 ## context
@@ -33,10 +32,10 @@ kanban-plugin: basic
 
 ## Someday
 
-- [ ] Clean garage floor <br>@{2023-06-19}
-- [ ] set up shared obsidian repo
-- [ ] Screen in outdoor cat food station @{2023-06-19}
-- [ ] Install deadbolt on back garage door @{2023-06-19}
+- [ ] Clean garage floor
+- [ ] Screen in outdoor cat food station
+- [ ] Install deadbolt on back garage door
+- [ ] make egg pancakes @{2023-07-04} 📅
 
 
 ***
@@ -44,7 +43,10 @@ kanban-plugin: basic
 ## Archive
 
 - [x] start kanban board @{2023-06-19}
-- [ ] unload dishes
+- [x] unload dishes ✅ 2023-07-04
+- [ ] set up shared obsidian repo
+- [x] barbeque burgers @{2023-07-04} 📅 2023-07-04 ✅ 2023-07-19
+- [x] prep for barbeque @{2023-07-04} 📅 2023-07-04 ✅ 2023-07-19
 
 %% kanban:settings
 ```

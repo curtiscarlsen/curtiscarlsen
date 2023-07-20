@@ -1,4 +1,5 @@
 
+
 read a lot, 
 
 # BarbellMethodOfReading 
@@ -15,3 +16,6 @@ https://zettelkasten.de/posts/barbell-method-reading/
 https://en.wikipedia.org/wiki/Getting_Things_Done
 
 ![[Pasted image 20230702172823.png]]
+
+
+[[MOC - Obsidian]]  #reference
