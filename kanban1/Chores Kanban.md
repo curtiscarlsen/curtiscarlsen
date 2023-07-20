@@ -10,7 +10,7 @@ kanban-plugin: basic
 
 ## DoNow
 
-- [ ] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04
+- [x] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04 ✅ 2023-07-19
 
 
 ## Planning
