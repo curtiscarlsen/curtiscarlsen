@@ -4,3 +4,5 @@
 	* editing the narrative
 	* writing ad copy
 	* publishing
+
+[[MOC - Writing]]
