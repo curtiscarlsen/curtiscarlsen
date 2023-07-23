@@ -40,3 +40,6 @@ URL: https://jpa.kapsi.fi/nanopb/docs/
 URL: https://thrift.apache.org/
 
 [[MOC - Software Design]]
+
+#reference/software/cpp
+#urlList

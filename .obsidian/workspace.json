@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/managingBookmarksFromCommandLineinChrome.md",
+                "file": "files without tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/managingBookmarksFromCommandLineinChrome.md",
+                "file": "files without tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/managingBookmarksFromCommandLineinChrome.md",
+                "file": "files without tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/managingBookmarksFromCommandLineinChrome.md"
+                "file": "files without tags.md"
               }
             }
           },
@@ -185,14 +185,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3654030181ff2227",
+  "active": "37edc47493a628f4",
   "lastOpenFiles": [
+    "managingBookmarksFromCommandLineinChrome.md",
     "files without tags.md",
-    "Obsidian Chrome plugins.md",
+    "network devices settings.md",
     "kanban1/Chores Kanban.md",
+    "github personal access token.md",
+    "serialization for embedded systems.md",
+    "templates/date.md",
+    "Software/managingBookmarksFromCommandLineinChrome.md",
+    "Obsidian Chrome plugins.md",
     "ShortList/Pending Task Summary.md",
     "Christmas cats t-shirt.md",
-    "github personal access token.md",
     "Untitled 4.md",
     "Pasted image 20230719195552.png",
     "Day Planners/Day Planner-20230721.md",
@@ -202,10 +207,7 @@
     "kanban1/Untitled.md",
     "kanban1/Untitled Kanban.md",
     "templates/MOC Template.md",
-    "serialization for embedded systems.md",
-    "network setting.md",
     "midiControlFreak.md",
-    "managingBookmarksFromCommandLineinChrome.md",
     "main.py",
     "dailyNotes/2023-07-19.md",
     "dailyNotes/2023-07-18.md",
@@ -213,8 +215,6 @@
     "dailyNotes/2023-07-16.md",
     "dailyNotes/2023-07-14.md",
     "dailyNotes/2023-07-13.md",
-    "dailyNotes/2023-07-12.md",
-    "dailyNotes/2023-07-10.md",
     "dailyNotes",
     "attachments/d20_cyberpunk_v1.2.pdf",
     "attachments/Pasted image 20230719094410.png",
