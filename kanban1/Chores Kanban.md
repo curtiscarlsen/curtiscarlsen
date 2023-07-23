@@ -11,6 +11,7 @@ kanban-plugin: basic
 ## DoNow
 
 - [ ] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04
+- [ ] make egg pancakes @{2023-07-04} 📅
 
 
 ## Planning
@@ -26,7 +27,6 @@ kanban-plugin: basic
 
 ## Done
 
-- [ ] make egg pancakes @{2023-07-04} 📅
 - [x] replace A/C ⏫ 📅 2023-07-20 ✅ 2023-07-21
 
 
