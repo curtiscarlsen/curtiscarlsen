@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3335936-898b-4f9d-9da3-9282e2481a73" name="Changes" comment="adding config files">
+      <change afterPath="$PROJECT_DIR$/.idea/general.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI in Writing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/Obsidian Usage - Use Cases and Processes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Audio setup for sharing movie sound over Discord.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation/google macros use cases.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C++ URLs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Configuring git on android.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230618.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230619.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230620.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230621.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230622.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230623.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230624.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230625.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230627.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230628.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230629.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230630.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230701.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230702.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230705.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230706.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230708.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230709.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230710.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230712.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230713.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230714.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230716.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230717.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230718.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230719.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSE_DndBasicExpertVersionRewrite.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Obsidian Chrome plugins.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Obsidian Date Formatting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Obsidian vault sync across devices.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Outlines in Obsidian.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pycharm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SciFi_DnD5e.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shael's Items.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShortList/MOC - Obsidian.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShortList/MOC - Software Design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShortList/MOC - Software Tools.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShortList/MOC - Writing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShortList/MOC Software Projects.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShortList/Pending Task Summary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Software Design URLs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Some RPG game systems.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attachments/Old-School_Essentials_-_Basic_Rules_v1-4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attachments/Pasted image 20230709133242.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attachments/Pasted image 20230709133323.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attachments/Pasted image 20230709133349.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attachments/Pasted image 20230719094410.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attachments/d20_cyberpunk_v1.2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/callouts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyNotes/2023-07-04.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyNotes/2023-07-05.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyNotes/2023-07-06.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyNotes/2023-07-08.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyNotes/2023-07-09.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyNotes/2023-07-10.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyNotes/2023-07-12.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyNotes/2023-07-13.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyNotes/2023-07-14.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyNotes/2023-07-16.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyNotes/2023-07-17.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyNotes/2023-07-18.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailyNotes/2023-07-19.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files without tags.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/managingBookmarksFromCommandLineinChrome.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midiControlFreak.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network setting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serialization for embedded systems.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/MOC Template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABT storytelling.md" beforeDir="false" afterPath="$PROJECT_DIR$/ABT storytelling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day Planners/Day Planner-20230703.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20230703.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Story Writing.md" beforeDir="false" afterPath="$PROJECT_DIR$/Story Writing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tony's one-shot DND game.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tony's one-shot DND game.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zettelkasten.md" beforeDir="false" afterPath="$PROJECT_DIR$/Zettelkasten.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanban1/Chores Kanban.md" beforeDir="false" afterPath="$PROJECT_DIR$/kanban1/Chores Kanban.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vscode.md" beforeDir="false" afterPath="$PROJECT_DIR$/vscode.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xdotool.md" beforeDir="false" afterPath="$PROJECT_DIR$/xdotool.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SoOrfzYX5EPho5xF9278Wgw14k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;s23__cac&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/curtis/obs_vault_branches/general&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3335936-898b-4f9d-9da3-9282e2481a73" name="Changes" comment="" />
+      <created>1689809666204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689809666204</updated>
+    </task>
+    <task id="LOCAL-00001" summary="adding config files">
+      <option name="closed" value="true" />
+      <created>1689809733855</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689809733855</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding config files" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding config files" />
+  </component>
+</project>
