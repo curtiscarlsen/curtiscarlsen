@@ -11,9 +11,11 @@
             "id": "37edc47493a628f4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "kanban1/Chores Kanban.md"
+                "file": "Software/managingBookmarksFromCommandLineinChrome.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "t-shirt",
+                "query": "/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kanban1/Chores Kanban.md",
+                "file": "Software/managingBookmarksFromCommandLineinChrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kanban1/Chores Kanban.md",
+                "file": "Software/managingBookmarksFromCommandLineinChrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kanban1/Chores Kanban.md"
+                "file": "Software/managingBookmarksFromCommandLineinChrome.md"
               }
             }
           },
@@ -159,13 +162,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 428.5,
-    "collapsed": true
+    "width": 428.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +185,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "37edc47493a628f4",
+  "active": "3654030181ff2227",
   "lastOpenFiles": [
+    "files without tags.md",
+    "Obsidian Chrome plugins.md",
+    "kanban1/Chores Kanban.md",
     "ShortList/Pending Task Summary.md",
     "Christmas cats t-shirt.md",
     "github personal access token.md",
@@ -203,7 +207,6 @@
     "midiControlFreak.md",
     "managingBookmarksFromCommandLineinChrome.md",
     "main.py",
-    "files without tags.md",
     "dailyNotes/2023-07-19.md",
     "dailyNotes/2023-07-18.md",
     "dailyNotes/2023-07-17.md",
@@ -212,8 +215,6 @@
     "dailyNotes/2023-07-13.md",
     "dailyNotes/2023-07-12.md",
     "dailyNotes/2023-07-10.md",
-    "dailyNotes/2023-07-09.md",
-    "dailyNotes/2023-07-08.md",
     "dailyNotes",
     "attachments/d20_cyberpunk_v1.2.pdf",
     "attachments/Pasted image 20230719094410.png",
