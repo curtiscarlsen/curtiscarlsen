@@ -11,6 +11,7 @@ kanban-plugin: basic
 ## DoNow
 
 - [ ] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04
+- [ ] make egg pancakes @{2023-07-04} 📅
 
 
 ## Planning
@@ -35,7 +36,6 @@ kanban-plugin: basic
 - [ ] Clean garage floor
 - [ ] Screen in outdoor cat food station
 - [ ] Install deadbolt on back garage door
-- [ ] make egg pancakes @{2023-07-04} 📅
 
 
 ***
