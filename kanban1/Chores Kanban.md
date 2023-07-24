@@ -64,3 +64,4 @@ kanban-plugin: basic
 %%
 
 #tasks 
+[[MOC_chores]]
