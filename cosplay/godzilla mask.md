@@ -37,3 +37,5 @@ https://screenrant.com/godzilla-versions-eras-differences-explained/
 ## lights along spine fins or eyes, or...?
 
 ## roar sound effects?
+
+[[MOC_cosplay]]

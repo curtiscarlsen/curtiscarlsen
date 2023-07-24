@@ -45,3 +45,6 @@ pactl load-module module-remap-source \
 ![[Pasted image 20230709133349.png]]
 
 [[MOC Software Projects]]
+
+#reference/software/discord
+
