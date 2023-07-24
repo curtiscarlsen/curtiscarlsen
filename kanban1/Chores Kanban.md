@@ -3,8 +3,6 @@
 kanban-plugin: basic
 
 ---
-#tasks 
-[[MOC_chores]]
 
 ## Inbox
 
@@ -14,7 +12,6 @@ kanban-plugin: basic
 
 - [ ] Fix a screen partition on patio @{2023-06-19} ^y35ehf
 - [ ] Research flashing for roof to patio interface
-- [ ] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04
 
 
 ## Planning
@@ -30,6 +27,7 @@ kanban-plugin: basic
 
 ## Done
 
+- [ ] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04
 
 
 ## context
