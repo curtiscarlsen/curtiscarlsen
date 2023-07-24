@@ -44,3 +44,5 @@ python edited in pycharm: project name midiControlFreak
 * send win-left to current window (move to left side)
 * send keys to chrome using [[xdotool]] :
 	* ctrl+n 'chrome://bookmarks/...' \n  (customized for the actual bookmarks subfolder you want)
+
+[[MOC_software]]
