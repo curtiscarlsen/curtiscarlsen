@@ -1,6 +1,6 @@
 ---
 alias: []
-tags: [StealingStories CurtisDm]
+tags: [rpgs/StealingStories rpgs/dnd/CurtisDm]
 ---
 ```RpgManagerData
 plot: 

@@ -1,6 +1,6 @@
 ---
 alias: []
-tags: [TonyDM DND]
+tags: [rpgs/DND/TonyDM]
 ---
 ```RpgManagerData
 plot: 
