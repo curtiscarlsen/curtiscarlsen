@@ -10,8 +10,10 @@ kanban-plugin: basic
 
 ## DoNow
 
+- [ ] Ask Tony about rpg games at cc
+- [ ] Fix a screen partition on patio @{2023-06-19} ^y35ehf
+- [ ] Research flashing for roof to patio interface
 - [ ] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04
-- [ ] make egg pancakes @{2023-07-04} 📅
 
 
 ## Planning
@@ -32,7 +34,6 @@ kanban-plugin: basic
 
 ## context
 
-- [ ] [[Fix a screen partition on patio @{2023-06-19}]] ^y35ehf
 - [ ] Paint Eaves, one section at a time, once a week @{2023-06-19} [[Chores Kanban#^y35ehf]]
 
 
@@ -54,12 +55,10 @@ kanban-plugin: basic
 - [ ] set up shared obsidian repo
 - [x] barbeque burgers @{2023-07-04} 📅 2023-07-04 ✅ 2023-07-19
 - [x] prep for barbeque @{2023-07-04} 📅 2023-07-04 ✅ 2023-07-19
+- [ ] make egg pancakes @{2023-07-04} 📅
 
 %% kanban:settings
 ```
 {"kanban-plugin":"basic"}
 ```
 %%
-
-#kanban
-#tasks
