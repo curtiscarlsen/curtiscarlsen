@@ -10,7 +10,6 @@ kanban-plugin: basic
 
 ## DoNow
 
-- [ ] Ask Tony about rpg games at cc
 - [ ] Fix a screen partition on patio @{2023-06-19} ^y35ehf
 - [ ] Research flashing for roof to patio interface
 - [ ] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04
@@ -29,7 +28,6 @@ kanban-plugin: basic
 
 ## Done
 
-- [x] replace A/C ⏫ 📅 2023-07-20 ✅ 2023-07-21
 
 
 ## context
@@ -49,6 +47,8 @@ kanban-plugin: basic
 
 ## Archive
 
+- [x] replace A/C ⏫ 📅 2023-07-20 ✅ 2023-07-21
+- [ ] Ask Tony about rpg games at cc
 - [x] start kanban board @{2023-06-19}
 - [x] unload dishes ✅ 2023-07-04
 - [x] set up shared obsidian repo ✅ 2023-07-19
@@ -62,6 +62,3 @@ kanban-plugin: basic
 {"kanban-plugin":"basic"}
 ```
 %%
-
-#tasks 
-[[MOC_chores]]
