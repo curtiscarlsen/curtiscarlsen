@@ -6,28 +6,10 @@
       "path": "Generalities.md"
     },
     {
-      "type": "file",
-      "ctime": 1688405142200,
-      "path": "Software/Obsidian vault sync across devices.md",
-      "subpath": "#^950e91"
-    },
-    {
-      "type": "group",
-      "ctime": 1690219310709,
-      "items": [],
-      "title": "bookmarkGroup1"
-    },
-    {
       "type": "search",
-      "ctime": 1690219528910,
-      "query": "(-/\\[.*((moc)|(MOC)).*]]/)  file:.md",
+      "ctime": 1690226204054,
+      "query": "(-/\\[.*((moc)|(MOC)).*]]/)  file:.md -tag:#MOC",
       "title": "unMOC'd Notes"
-    },
-    {
-      "type": "search",
-      "ctime": 1690226118860,
-      "query": "(-/\\[.*((moc)|(MOC)).*]]/)  file:.md -#MOC",
-      "title": "unMOC'd notes"
     }
   ]
 }
