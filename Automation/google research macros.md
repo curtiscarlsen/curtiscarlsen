@@ -11,6 +11,6 @@
 
 #project/software/macros/research
 #reference/software/python
-#softDesign/useCases
+#project/software/softDesign/useCases
 
 [[MOC_software]]

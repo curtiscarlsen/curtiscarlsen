@@ -3,4 +3,4 @@
 list from [[]] and !outgoing([[]]) 
 ```
 
-#MOC
+#MOC #templated 

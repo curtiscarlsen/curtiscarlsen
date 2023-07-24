@@ -5,5 +5,5 @@
 
 - 
 
-#daily 
+#daily #templated
 [[MOC_daily]]

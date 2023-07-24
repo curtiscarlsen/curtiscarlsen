@@ -11,5 +11,5 @@ Build-your-own pizza:
 
 
 #reference/restaurants
-#oggis
+#reference/restaurants/oggis
 [[Moc_food]]
