@@ -52,3 +52,12 @@ git push
 
 ```
 
+# results
+- I implemented merge_obsidian.sh (terminal wrapper), and merge_obsidian_.sh (git commands as above) on ubuntu desktop
+- first run had a merge conflict.  This may have been left over from a previous manual merge.
+- subsequent runs have gone fine with no conflicts.
+- ## execution order is: 
+	- run termux script 'sync_script.sh' (from the termux launcher on 3d home screen for convenience)
+	- run merge_obsidian.sh from desktop on boyo (right_click the script icon and select 'run as program')
+
+#reference/obsidian 
