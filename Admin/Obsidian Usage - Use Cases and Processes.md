@@ -14,3 +14,4 @@
 	- Note: KanBan can be switched over to markup mode, in which case the individual kanban cards are listed as their underlying markdown check-boxes, which are the same as the task definitions in tasks plugin.  This means that tasks automatically detects kanban cards as tasks, and also, in markdown mode one can trivially cut and paste a task definition from any other note straight into the kanban, thus allowing managing any task in the kanban while deleting the previous definition to avoid duplicates.  Might want to put a link back to the original source note in the def'n to maintain a link with the context info that was originally around the task def'n.
 
 [[MOC - Obsidian]]
+#reference/obsidian 
