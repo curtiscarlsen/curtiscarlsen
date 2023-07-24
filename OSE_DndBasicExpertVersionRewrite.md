@@ -1,4 +1,4 @@
-#RPGs 
+#reference/RPGs 
 
 ## Basic Rules
 * The basic rules are in a PDF that is freely available online.  It has a limited set of classes, races, etc

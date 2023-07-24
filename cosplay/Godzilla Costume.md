@@ -1,5 +1,5 @@
 Just a full head mask with back fins and a tail?  
-#costume/godzilla
+#reference/costume/godzilla
 
 [[godzilla mask]]
 

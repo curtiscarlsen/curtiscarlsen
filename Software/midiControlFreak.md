@@ -12,7 +12,7 @@ python edited in pycharm: project name midiControlFreak
 
 #project/software/ubuntu/app/general
 
-#coding/python 
+#reference/software/python 
 
 [[managingBookmarksFromCommandLineinChrome]]
 

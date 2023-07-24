@@ -1,4 +1,4 @@
-#comic-con
+#entertainment/conventions/comic-con
 
 # Use printful print on demand site to create custom printed t-shirts
 https://www.printful.com/dashboard/custom/mens/long-sleeve-shirts/mens-long-sleeve-shirt-gildan-2400?color=Black&technique=T-SHIRT&size=3XL
@@ -21,6 +21,6 @@ https://creator.nightcafe.studio/studio?open=creation&panelContext=%28jobId%3A9j
 
 ![[Pasted image 20230701111848.png]]![[Pasted image 20230701123342.png]]
 
-#conventions
-#projects/t-shirts
+#entertainment/conventions
+#project/t-shirts
 [[MOC_crafts]]

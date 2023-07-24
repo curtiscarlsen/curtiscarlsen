@@ -16,7 +16,7 @@ make a moving shelter that one PC can move around under that would hold out tent
 make barbed things to hook into shrooms so we can drag them into corridor and whack at them one at a time.
 
 
-#RPGs/dnd/gamenotes
-#RPGs/dnd/tonydm
+#reference/RPGs/dnd/gamenotes
+#reference/RPGs/dnd/tonydm
 
 [[MOC_rpgs]]

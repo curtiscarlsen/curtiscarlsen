@@ -1,4 +1,4 @@
-#RPGs 
+#reference/RPGs 
 
 ## (2) My 9 Favorite RPGs That Aren't D&D! - YouTube
 URL: https://www.youtube.com/watch?v=nVhydj1EzkM&list=WL&index=19
@@ -39,5 +39,5 @@ But it has some interesting ideas in it.
 Core Rulebook: about $30 at: https://www.drivethrurpg.com/product/333585/Cyberpunk-RED
 
 [[MOC_rpgs]]
-#RPGs 
+#reference/RPGs 
 #urlList 

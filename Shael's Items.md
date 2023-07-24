@@ -13,6 +13,6 @@ total gold available: 60 GP
 | small belt pouch   | 7 sp  |
 | 
 
-#RPGs/dnd/tonydm 
+#reference/RPGs/dnd/tonydm 
 [[MOC_rpgs]]
 

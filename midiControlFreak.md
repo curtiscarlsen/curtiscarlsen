@@ -12,8 +12,8 @@ python edited in pycharm: project name midiControlFreak
 
 #project/software/ubuntu/general
 
-#language/python 
-#language/bash
+#reference/software/python 
+#reference/software/bash
 
 [[managingBookmarksFromCommandLineinChrome]]
 

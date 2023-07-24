@@ -1,4 +1,4 @@
 location::??
 vest, pants, goggles and hat.
-#costume/steampunkguy
+#project/costume/steampunkguy
 [[MOC_cosplay]]

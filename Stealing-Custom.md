@@ -1,6 +1,6 @@
 ---
 alias: []
-tags: [rpgs/StealingStories rpgs/dnd/CurtisDm]
+tags: [reference/RPGs/StealingStories reference/RPGs/dnd/CurtisDm]
 ---
 ```RpgManagerData
 plot: 
@@ -64,4 +64,4 @@ positionInParent: 0
 ```
 [[MOC_rpgs]]
 
-#RPGs 
+#reference/RPGs 

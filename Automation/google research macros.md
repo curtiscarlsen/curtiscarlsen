@@ -10,7 +10,7 @@
 
 
 #project/software/macros/research
-#software/python
+#reference/software/python
 #softDesign/useCases
 
 [[MOC_software]]

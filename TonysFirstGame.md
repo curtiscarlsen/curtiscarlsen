@@ -1,6 +1,6 @@
 ---
 alias: []
-tags: [rpgs/DND/TonyDM]
+tags: [reference/RPGs/DND/TonyDM]
 ---
 ```RpgManagerData
 plot: 
@@ -64,4 +64,4 @@ positionInParent: 0
 ```
 
 [[MOC_rpgs]]
-#RPGs 
+#reference/RPGs 
