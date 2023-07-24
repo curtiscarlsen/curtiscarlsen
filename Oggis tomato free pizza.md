@@ -12,4 +12,4 @@ Build-your-own pizza:
 
 #reference/restaurants
 #oggis
-[[moc_food]]
+[[Moc_food]]
