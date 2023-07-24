@@ -5,7 +5,7 @@ kanban-plugin: basic
 ---
 
 ## Inbox
-
+- [ ] Do Not Delete or Archive.  #tasks , [[MOC_chores]]
 
 
 ## DoNow

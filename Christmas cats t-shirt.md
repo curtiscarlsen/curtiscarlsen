@@ -20,3 +20,6 @@ https://creator.nightcafe.studio/studio?open=creation&panelContext=%28jobId%3A9j
 
 
 ![[Pasted image 20230701111848.png]]![[Pasted image 20230701123342.png]]
+
+#conventions
+#projects
