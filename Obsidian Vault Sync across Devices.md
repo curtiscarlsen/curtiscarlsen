@@ -1,0 +1,3 @@
+![[Pasted image 20230719195552.png]]
+
+#software/obsidian

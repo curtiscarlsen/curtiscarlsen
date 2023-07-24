@@ -6,3 +6,5 @@
 	* publishing
 
 [[MOC - Writing]]
+
+#reference/writing
