@@ -11,9 +11,11 @@
             "id": "37edc47493a628f4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "kanban1/Chores Kanban.md"
+                "file": "files without tags.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "t-shirt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kanban1/Chores Kanban.md",
+                "file": "files without tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kanban1/Chores Kanban.md",
+                "file": "files without tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kanban1/Chores Kanban.md"
+                "file": "files without tags.md"
               }
             }
           },
@@ -159,13 +162,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 428.5,
-    "collapsed": true
+    "width": 428.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,9 +187,21 @@
   },
   "active": "37edc47493a628f4",
   "lastOpenFiles": [
+    "network setting.md",
+    "network devices settings.md",
+    "Oggis tomato free pizza.md",
+    "Moc_food.md",
+    "Day Planners/Day Planner-20230723.md",
+    "managingBookmarksFromCommandLineinChrome.md",
+    "files without tags.md",
+    "kanban1/Chores Kanban.md",
+    "github personal access token.md",
+    "serialization for embedded systems.md",
+    "templates/date.md",
+    "Software/managingBookmarksFromCommandLineinChrome.md",
+    "Obsidian Chrome plugins.md",
     "ShortList/Pending Task Summary.md",
     "Christmas cats t-shirt.md",
-    "github personal access token.md",
     "Untitled 4.md",
     "Pasted image 20230719195552.png",
     "Day Planners/Day Planner-20230721.md",
@@ -198,22 +211,10 @@
     "kanban1/Untitled.md",
     "kanban1/Untitled Kanban.md",
     "templates/MOC Template.md",
-    "serialization for embedded systems.md",
-    "network setting.md",
     "midiControlFreak.md",
-    "managingBookmarksFromCommandLineinChrome.md",
     "main.py",
-    "files without tags.md",
     "dailyNotes/2023-07-19.md",
     "dailyNotes/2023-07-18.md",
-    "dailyNotes/2023-07-17.md",
-    "dailyNotes/2023-07-16.md",
-    "dailyNotes/2023-07-14.md",
-    "dailyNotes/2023-07-13.md",
-    "dailyNotes/2023-07-12.md",
-    "dailyNotes/2023-07-10.md",
-    "dailyNotes/2023-07-09.md",
-    "dailyNotes/2023-07-08.md",
     "dailyNotes",
     "attachments/d20_cyberpunk_v1.2.pdf",
     "attachments/Pasted image 20230719094410.png",
