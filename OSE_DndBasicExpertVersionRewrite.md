@@ -8,4 +8,5 @@
 * 
 * items.https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page
 * https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules?affiliate_id=516538
-* 
+
+[[MOC_rpgs]]

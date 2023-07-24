@@ -37,3 +37,7 @@ But it has some interesting ideas in it.
 ### Cyberpunk RED (update of Cyberpunk 2020)
 
 Core Rulebook: about $30 at: https://www.drivethrurpg.com/product/333585/Cyberpunk-RED
+
+[[MOC_rpgs]]
+#RPGs 
+#urlList 

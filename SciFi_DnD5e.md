@@ -4,3 +4,6 @@ Author: Diago Cristano
 
 
 #RPGs/cyberpunk
+
+[[MOC_rpgs]]
+

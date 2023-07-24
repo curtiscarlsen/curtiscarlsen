@@ -14,3 +14,5 @@ total gold available: 60 GP
 | 
 
 #RPGs/dnd/tonydm 
+[[MOC_rpgs]]
+

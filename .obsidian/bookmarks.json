@@ -22,6 +22,12 @@
       "ctime": 1690219528910,
       "query": "(-/\\[.*((moc)|(MOC)).*]]/)  file:.md",
       "title": "unMOC'd Notes"
+    },
+    {
+      "type": "search",
+      "ctime": 1690226118860,
+      "query": "(-/\\[.*((moc)|(MOC)).*]]/)  file:.md -#MOC",
+      "title": "unMOC'd notes"
     }
   ]
 }
