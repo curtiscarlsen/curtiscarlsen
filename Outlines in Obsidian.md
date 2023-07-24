@@ -38,4 +38,6 @@
 
 ![[Pasted image 20230719094410.png]]
 
-[[MOC - Obsidian]] #reference 
+[[MOC - Obsidian]] 
+
+#reference 
