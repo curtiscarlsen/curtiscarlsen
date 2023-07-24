@@ -5,3 +5,5 @@ buku cli bookmark manager
 can't get buku to import chrome's json bookmark file
 
 [[MOC Software Projects]]
+
+#reference/software/chrome
