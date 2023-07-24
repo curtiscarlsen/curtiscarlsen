@@ -19,7 +19,10 @@
 		- merge master to desktop
 ```bash
 #!/bin/bash
+cd ~/obs_vault_branches/gen3
+
 git checkout s23_cac
+git add *.md
 git commit
 git pull
 git push
@@ -32,8 +35,20 @@ git push
 
 git checkout master
 git merge s23_cac
-git mer
+git merge desktop
 git add *.md
+git commit
+git pull
+git push
+git checkout s23_cac
+git merge master
+git push
+
+git checkout develop
+git merge master
+git push
+
+
 
 ```
 
