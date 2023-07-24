@@ -34,3 +34,10 @@ URL: https://blog.mbedded.ninja/programming/serialization-formats/a-comparison-o
 ## Nanopb: Overview
 URL: https://jpa.kapsi.fi/nanopb/docs/
 
+## Apache Thrift - Home
+URL: https://thrift.apache.org/
+
+[[MOC - Software Design]]
+
+#reference/software/cpp
+#urlList

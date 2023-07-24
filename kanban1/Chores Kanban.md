@@ -60,3 +60,6 @@ kanban-plugin: basic
 {"kanban-plugin":"basic"}
 ```
 %%
+
+#kanban
+#tasks
