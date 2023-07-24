@@ -16,6 +16,12 @@
       "ctime": 1690219310709,
       "items": [],
       "title": "bookmarkGroup1"
+    },
+    {
+      "type": "search",
+      "ctime": 1690219528910,
+      "query": "(-/\\[.*((moc)|(MOC)).*]]/)  file:.md",
+      "title": "unMOC'd Notes"
     }
   ]
 }
