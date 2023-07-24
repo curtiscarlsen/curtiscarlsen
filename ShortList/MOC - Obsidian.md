@@ -4,7 +4,7 @@ list from [[]] and !outgoing([[]])
 ```
 
 # Obsidian Techniques and Tips
-- [[Obsidian Date Formatting]]
+- [[reference/Obsidian Date Formatting]]
 - [[Outlines in Obsidian]]
 - [[Zettelkasten]]
 - [[callouts]]
