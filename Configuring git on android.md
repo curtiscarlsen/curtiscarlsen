@@ -17,6 +17,6 @@ Note:  These instructions did not fully work, but that was probably due to an ol
 ```
 
 #reference/s23/termux
-#reference/git
+#reference/software/git
 
 [[MOC_software]]
