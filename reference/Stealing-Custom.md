@@ -1,6 +1,6 @@
 ---
 alias: []
-tags: []
+tags: [reference/RPGs/StealingStories reference/RPGs/dnd/CurtisDm]
 ---
 ```RpgManagerData
 plot: 
@@ -19,36 +19,49 @@ plot:
     return: 
     change: 
 data: 
+  date: 
   synopsis: 
   complete: false
+  currentAdventureId: 
+  currentActId: 
+  currentSessionId: 
 ```
 ```RpgManager
 models: 
   header: true
 ```
 ---
-### Adventure Notes
+### Campaign Notes
  - 
 
 ---
 ```RpgManager
 models: 
   lists: 
+    pcs: 
+      relationship: "hierarchy"
+    subplots: 
+      relationship: "hierarchy"
+    adventures: 
+      relationship: "hierarchy"
     acts: 
+      relationship: "hierarchy"
+    sessions: 
+      relationship: "hierarchy"
+    events: 
+      relationship: "hierarchy"
+    npcs: 
       relationship: "hierarchy"
 ```
 ```RpgManagerID
 ### DO NOT EDIT MANUALLY IF NOT INSTRUCTED TO DO SO ###
-type: 2
+type: 1
 campaignSettings: 0
-id: "b080afed-c460-4b74-b834-d4ba2a2bce6e"
+id: "1f5c8161-53c2-49c2-8480-c13080f60577"
 campaignId: "1f5c8161-53c2-49c2-8480-c13080f60577"
 parentId: "1f5c8161-53c2-49c2-8480-c13080f60577"
-positionInParent: 1
+positionInParent: 0
 ```
-
-#reference/RPGs/dmNotes/adventure
-status::completed
-
-
 [[MOC_rpgs]]
+
+#reference/RPGs 

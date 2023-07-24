@@ -1,9 +1,9 @@
-{date}
 
-# links
+# {{date}} links
 - 
-# tasks
+# {{date}} tasks
 
 - 
 
-#daily 
+#daily #templated
+[[MOC_daily]]

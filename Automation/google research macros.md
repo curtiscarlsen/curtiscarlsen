@@ -1,5 +1,3 @@
-#project/software/macros/research
-#software/python
 
 * Browse internet
 	* record url to an obsidian note (either new note or current note)
@@ -11,3 +9,8 @@
 	* prompt for folder name, create new file folder in obsidian tree and start new note in that folder
 
 
+#project/software/macros/research
+#reference/software/python
+#project/software/softDesign/useCases
+
+[[MOC_software]]

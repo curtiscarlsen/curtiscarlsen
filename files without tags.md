@@ -1,2 +1,1 @@
-- [[Obsidian git merging.md]]
 - [[files without tags.md]]

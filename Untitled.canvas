@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"b0cc23489ef888eb","x":-660,"y":-540,"width":400,"height":400,"type":"file","file":"kanban1/Chores Kanban.md"},
-		{"id":"80b54807baeadd42","x":-980,"y":-500,"width":250,"height":80,"color":"3","type":"text","text":"dfgdfsg"}
-	],
-	"edges":[
-		{"id":"88281ca00f75484a","fromNode":"b0cc23489ef888eb","fromSide":"top","toNode":"80b54807baeadd42","toSide":"top"}
-	]
-}

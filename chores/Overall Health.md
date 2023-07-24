@@ -1,7 +1,7 @@
 #health 
 
 # exercise
-* yoga
+* [[yoga]]
 * back stretches
 * walking
 * rowing
@@ -14,4 +14,6 @@
 * gabapentin 400 milligram
 * cool down after 9pm
 * exercise before 8:30 PM
-* 
+
+[[MOC_health]]
+[[MOC_chores]]

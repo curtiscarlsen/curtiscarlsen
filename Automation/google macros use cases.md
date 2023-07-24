@@ -1,5 +1,5 @@
 #project/software/macropad
-#software/python
+#reference/software/python
 
 * Browse internet
 	* Chrome to Obsidan
