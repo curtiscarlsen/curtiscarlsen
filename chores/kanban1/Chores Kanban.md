@@ -28,6 +28,10 @@ kanban-plugin: basic
 ## Done
 
 - [ ] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04
+- [x] replace A/C ⏫ 📅 2023-07-20 ✅ 2023-07-21
+- [ ] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04
+- [ ] Grocery shopping
+- [ ] Ask Tony about rpg games at cc
 
 
 ## context
