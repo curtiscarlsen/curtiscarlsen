@@ -12,3 +12,5 @@ URL: https://blog.jetbrains.com/clion/tag/cpp-news/
 URL: https://www.javatpoint.com/boost-cpp
 
 [[MOC - Software Design]]
+#reference/software/cpp 
+#urlList 

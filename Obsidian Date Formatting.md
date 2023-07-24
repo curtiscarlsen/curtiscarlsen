@@ -11,3 +11,4 @@ months can be formatted as:
 and so on for all of the date time fields
 
 [[MOC - Obsidian]]
+#reference/obsidian 
