@@ -15,3 +15,5 @@ https://medium.com/linuxforeveryone/how-to-sync-all-your-stuff-with-syncthing-li
 
 
 [[MOC - Obsidian]]
+#reference/obsidian 
+

@@ -10,3 +10,5 @@ months can be formatted as:
 * January, February,...
 and so on for all of the date time fields
 
+#reference/obsidian 
+

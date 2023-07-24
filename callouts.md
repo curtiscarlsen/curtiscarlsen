@@ -9,3 +9,4 @@ callouts
 	* Make a callout folding by putting a + or - right after the closing ] of the type identifier
 
 [[MOC - Obsidian]]
+#reference/obsidian 
