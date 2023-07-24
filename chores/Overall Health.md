@@ -1,7 +1,7 @@
 #health 
 
 # exercise
-* yoga
+* [[yoga]]
 * back stretches
 * walking
 * rowing
@@ -15,4 +15,4 @@
 * cool down after 9pm
 * exercise before 8:30 PM
 
-[[]]
+[[MOC_health]]
