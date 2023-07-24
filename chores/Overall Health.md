@@ -16,3 +16,4 @@
 * exercise before 8:30 PM
 
 [[MOC_health]]
+[[MOC_chores]]

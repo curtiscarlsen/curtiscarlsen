@@ -3,6 +3,8 @@
 kanban-plugin: basic
 
 ---
+#tasks 
+[[MOC_chores]]
 
 ## Inbox
 
