@@ -61,4 +61,4 @@ git push
 	- run merge_obsidian.sh from desktop on boyo (right_click the script icon and select 'run as program')
 
 #reference/obsidian 
-[[MOC_software]]
+[[MOC - software]]

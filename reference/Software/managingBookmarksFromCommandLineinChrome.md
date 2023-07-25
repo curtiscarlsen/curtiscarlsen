@@ -6,4 +6,4 @@ can't get buku to import chrome's json bookmark file
 
 #project/software/ubuntu/app 
 #reference/software 
-[[MOC_software]]
+[[MOC - software]]
