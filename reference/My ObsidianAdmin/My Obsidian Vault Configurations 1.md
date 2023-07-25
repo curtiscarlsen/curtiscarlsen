@@ -10,4 +10,5 @@
 
 # Links Show Relationships between Different Notes/Subjects
 
-#sof
+#admin 
+[[MOC - Obsidian]]

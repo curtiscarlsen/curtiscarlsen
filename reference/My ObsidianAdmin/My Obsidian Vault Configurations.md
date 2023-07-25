@@ -12,3 +12,6 @@
 - Usages
 - 
 # Links Show Relationships between Different Notes/Subjects
+
+#admin 
+[[MOC - Obsidian]]
