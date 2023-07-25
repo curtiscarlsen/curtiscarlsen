@@ -1,4 +1,4 @@
-# Folders Annotate How Notes are Used
+# Folders Annotate How Notes Are Used In the Vault
 * notes can be used as:
 	* **reference** materials
 	* **chore** reminders
@@ -7,6 +7,8 @@
 	* shortList of summary and important admin notes
 	* **attachments** used by other notes
 
-# Tags Annotate Aspects of How Things Can Be Used
-
+# Tags Annotate Aspects of How Things Work 
+- Descriptions of physical properties/interactions
+- Usages
+- 
 # Links Show Relationships between Different Notes/Subjects

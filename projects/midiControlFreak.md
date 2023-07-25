@@ -15,7 +15,7 @@ python edited in pycharm: project name midiControlFreak
 #reference/software/python 
 #reference/software/bash
 
-[[reference/managingBookmarksFromCommandLineinChrome]]
+[[managingBookmarksFromCommandLineinChrome 1]]
 
 
 # use cases
