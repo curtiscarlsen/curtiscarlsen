@@ -16,6 +16,30 @@
       "ctime": 1690237870881,
       "query": "tag:#MOC",
       "title": "MOC's"
+    },
+    {
+      "type": "search",
+      "ctime": 1690303215250,
+      "query": "file:/.*\\.md/",
+      "title": "All Notes"
+    },
+    {
+      "type": "search",
+      "ctime": 1690303261201,
+      "query": "-file:/.*\\.md/",
+      "title": "All Attachments"
+    },
+    {
+      "type": "search",
+      "ctime": 1690303405204,
+      "query": "tag:#tasks",
+      "title": "Chores/Tasks"
+    },
+    {
+      "type": "search",
+      "ctime": 1690303467809,
+      "query": "tag:#entertainment",
+      "title": "Entertainment"
     }
   ]
 }
