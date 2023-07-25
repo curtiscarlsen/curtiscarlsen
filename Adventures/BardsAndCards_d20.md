@@ -20,8 +20,12 @@ plot:
     change: 
 data: 
   synopsis: "A pink D20 is the key object.  The area of effect is the  Bards and Cards game store at:\n\n 936 5th Ave\nSan Diego, CA 92101\nE St & Broadway\nGaslamp\n\nThe anomoly is that all dice rolls are 20's"
+[[Bards and cards]]
+
   complete: false
 ```
+
+
 ```RpgManager
 models: 
   header: true
