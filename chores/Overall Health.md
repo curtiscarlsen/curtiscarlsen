@@ -15,5 +15,5 @@
 * cool down after 9pm
 * exercise before 8:30 PM
 
-[[MOC_health]]
-[[MOC_chores]]
+[[MOC - health]]
+[[MOC - chores]]

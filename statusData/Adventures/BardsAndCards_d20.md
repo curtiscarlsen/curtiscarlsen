@@ -53,4 +53,4 @@ positionInParent: 2
 
 #reference/RPGs/dmNotes/adventure 
 status::notPlayedYet
-[[MOC_rpgs]]
+[[MOC - rpgs]]

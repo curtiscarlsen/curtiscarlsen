@@ -10,4 +10,4 @@
 ```
 
 #reference/network/peacock
-[[MOC_software]]
+[[MOC - software]]

@@ -23,4 +23,4 @@ https://creator.nightcafe.studio/studio?open=creation&panelContext=%28jobId%3A9j
 
 #entertainment/conventions
 #project/t-shirts
-[[MOC_crafts]]
+[[MOC - crafts]]

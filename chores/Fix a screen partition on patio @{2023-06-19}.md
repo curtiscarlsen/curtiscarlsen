@@ -1,3 +1,3 @@
 
 #tasks 
-[[MOC_chores]]
+[[MOC - chores]]

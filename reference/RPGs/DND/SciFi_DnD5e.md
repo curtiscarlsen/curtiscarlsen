@@ -5,5 +5,5 @@ Author: Diago Cristano
 
 #reference/RPGs/cyberpunk
 
-[[MOC_rpgs]]
+[[MOC - rpgs]]
 

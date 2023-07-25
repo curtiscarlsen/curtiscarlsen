@@ -6,4 +6,4 @@
 - 
 
 #daily #templated
-[[MOC_daily]]
+[[MOC - daily]]

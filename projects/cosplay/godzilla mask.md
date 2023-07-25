@@ -38,6 +38,6 @@ https://screenrant.com/godzilla-versions-eras-differences-explained/
 
 ## roar sound effects?
 
-[[MOC_cosplay]]
+[[MOC - cosplay]]
 #reference/cosplay
 

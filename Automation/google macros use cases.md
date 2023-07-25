@@ -14,4 +14,4 @@
 		* switch to obsidian and paste clipboard text to cursor position
 		* take screen capture of current page and copy it to current or new note in obsidian
 
-[[MOC Software Projects]]
+[[MOC - Software Projects]]

@@ -14,7 +14,7 @@ python edited in pycharm: project name midiControlFreak
 
 #reference/software/python 
 
-[[reference/managingBookmarksFromCommandLineinChrome]]
+[[managingBookmarksFromCommandLineinChrome 1]]
 
 
 # use cases
@@ -45,4 +45,4 @@ python edited in pycharm: project name midiControlFreak
 * send keys to chrome using [[xdotool]] :
 	* ctrl+n 'chrome://bookmarks/...' \n  (customized for the actual bookmarks subfolder you want)
 
-[[MOC_software]]
+[[MOC - software]]
