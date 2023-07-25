@@ -29,3 +29,14 @@ We’ll be leveraging [Open AI’s Whisper package](https://github.com/openai/wh
     -   Depending on your use case, you’ll likely be interested in only a single file. If the start and stop time stampsa are important to you, its important to note that both the `vtt` and `srt` files should be able to be used. The `vtt` file format seems to be newer the `srt` file format.
 
 This tool would be a great candidate for leveraging a Dockerized environment. Additionally, I can see this tool being useful for transcribing work meetings, lectures, or self dictated notes.
+
+
+
+## Easily Converting Audio or Video Files To Text Transcripts - Greg Hilston
+URL: https://www.greghilston.com/post/audio-or-video-to-text/
+
+- I've installed whisper on boyo64 using instructions on this page.  It went wihtout issue.  I have not yet tested the operation of whisper
+
+
+#reference/software/ubuntu 
+[[MOC - software]]
