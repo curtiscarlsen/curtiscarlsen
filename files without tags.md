@@ -1,1 +1,4 @@
+- [[reference/Software/Configuring git on android.md]]
+- [[reference/My ObsidianAdmin/My Obsidian Vault Configurations 1.md]]
+- [[reference/My ObsidianAdmin/My Obsidian Vault Configurations.md]]
 - [[files without tags.md]]
