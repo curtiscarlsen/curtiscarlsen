@@ -4,4 +4,4 @@ wooden wings with cloth membranes.  powered with gears and ropes.  Made in 2010(
 location:: garage attic
 
 #storedItem
-[[MOC_cosplay]]
+[[MOC - cosplay]]

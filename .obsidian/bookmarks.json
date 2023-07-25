@@ -13,9 +13,9 @@
     },
     {
       "type": "search",
-      "ctime": 1690303405204,
-      "query": "tag:#tasks",
-      "title": "Chores/Tasks"
+      "ctime": 1690305442204,
+      "query": "/- \\[[\\s]\\]/",
+      "title": "Pending Tasks"
     },
     {
       "type": "search",
@@ -56,9 +56,9 @@
     },
     {
       "type": "search",
-      "ctime": 1690305442204,
-      "query": "/- \\[[\\s]\\]/",
-      "title": "Pending Tasks"
+      "ctime": 1690303405204,
+      "query": "tag:#tasks",
+      "title": "NOtes with tagged Chores/Tasks"
     }
   ]
 }

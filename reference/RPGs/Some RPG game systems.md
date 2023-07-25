@@ -38,6 +38,6 @@ But it has some interesting ideas in it.
 
 Core Rulebook: about $30 at: https://www.drivethrurpg.com/product/333585/Cyberpunk-RED
 
-[[MOC_rpgs]]
+[[MOC - rpgs]]
 #reference/RPGs 
 #urlList 

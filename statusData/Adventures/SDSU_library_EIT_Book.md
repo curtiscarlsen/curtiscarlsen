@@ -51,4 +51,4 @@ positionInParent: 1
 status::completed
 
 
-[[MOC_rpgs]]
+[[MOC - rpgs]]

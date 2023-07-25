@@ -19,4 +19,4 @@ make barbed things to hook into shrooms so we can drag them into corridor and wh
 #reference/RPGs/dnd/gamenotes
 #reference/RPGs/dnd/tonydm
 
-[[MOC_rpgs]]
+[[MOC - rpgs]]

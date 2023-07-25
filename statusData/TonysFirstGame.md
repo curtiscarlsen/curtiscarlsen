@@ -63,5 +63,5 @@ parentId: "135317ab-7bfd-44a9-9260-2a5a4ddb0f26"
 positionInParent: 0
 ```
 
-[[MOC_rpgs]]
+[[MOC - rpgs]]
 #reference/RPGs 
