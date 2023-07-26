@@ -5,6 +5,7 @@ kanban-plugin: basic
 ---
 
 ## Inbox
+
 - [ ] Do Not Delete or Archive.  #tasks , [[MOC - chores]]
 
 
@@ -27,6 +28,7 @@ kanban-plugin: basic
 
 ## Done
 
+**Complete**
 - [ ] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04
 - [x] replace A/C ⏫ 📅 2023-07-20 ✅ 2023-07-21
 - [ ] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04
