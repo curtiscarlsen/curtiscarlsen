@@ -2,6 +2,9 @@
 
 # Use printful print on demand site to create custom printed t-shirts
 https://www.printful.com/dashboard/custom/mens/long-sleeve-shirts/mens-long-sleeve-shirt-gildan-2400?color=Black&technique=T-SHIRT&size=3XL
+- [ ] 🛫 2023-07-25 set up account on printful site
+- [ ] design christmas cats shirt [type::project] ➕ 2023-07-25
+- [ ] purchase a couple of shirts
 
 # nightcafe allows 5 pictures per day, I can try to dial something in before CC
 
