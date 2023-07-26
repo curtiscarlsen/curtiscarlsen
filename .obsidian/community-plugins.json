@@ -19,5 +19,6 @@
   "obsidian-git",
   "obsidian-tasks-plugin",
   "obsidian-local-rest-api",
-  "periodic-notes"
+  "periodic-notes",
+  "calendar"
 ]
