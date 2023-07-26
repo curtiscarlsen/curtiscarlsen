@@ -26,16 +26,14 @@ We’ll be leveraging [Open AI’s Whisper package](https://github.com/openai/wh
     -   1.  `name-of-my-video-file.m4a.txt`: This file contains ust the transcribed text
     -   2.  `name-of-my-video-file.m4a.vtt`: This file contains the transcripted text, with start and stop time stamps. This file is often used for subtitles with videos.
     -   3.  `name-of-my-video-file.m4a.srt`: This file contains the transcripted text, with start and stop time stamps, as well as a counter as to which ‘chunk’ of text this is. This file is often used for subtitles with videos.
-    -   Depending on your use case, you’ll likely be interested in only a single file. If the start and stop time stampsa are important to you, its important to note that both the `vtt` and `srt` files should be able to be used. The `vtt` file format seems to be newer the `srt` file format.
+    -   Depending on your use case, you’ll likely be interested in only a single file. If the start and stop time stamps are important to you, its important to note that both the `vtt` and `srt` files should be able to be used. The `vtt` file format seems to be newer the `srt` file format.
 
 This tool would be a great candidate for leveraging a Dockerized environment. Additionally, I can see this tool being useful for transcribing work meetings, lectures, or self dictated notes.
-
-
 
 ## Easily Converting Audio or Video Files To Text Transcripts - Greg Hilston
 URL: https://www.greghilston.com/post/audio-or-video-to-text/
 
-- I've installed whisper on boyo64 using instructions on this page.  It went wihtout issue.  I have not yet tested the operation of whisper
+- I've installed whisper on boyo64 using instructions on this page.  It went without issue.  **I have not yet tested the operation of whisper**
 
 
 #reference/software/ubuntu 
