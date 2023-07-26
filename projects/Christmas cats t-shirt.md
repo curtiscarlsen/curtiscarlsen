@@ -5,18 +5,20 @@ https://www.printful.com/dashboard/custom/mens/long-sleeve-shirts/mens-long-slee
 - [ ] 🛫 2023-07-25 set up account on printful site
 - [ ] design christmas cats shirt [type::project] ➕ 2023-07-25
 - [ ] purchase a couple of shirts [type::project]🛫 2023-07-25 
-- [ ] design and buy comic-con 2023 t-shirt 🛫 2023-07-25 
+- [ ] design and buy comic-con 2023 t-shirt 🛫 2023-08-25 
 
-# nightcafe allows 5 pictures per day, I can try to dial something in before CC
+# Creating artwork for the shirts
+
+## nightcafe allows 5 pictures per day, I can try to dial something in before CC
 
 picture of the christmas cats (started gen'ing the pic with dall-e-2 web site, ran out of credit on free account.  No new credits until July 23d, way too late for comic con):
 
-## old seed/gen phrases
+### old seed/gen phrases
 * two tan and black cats (one long hair, one short hair) sitting on an ironing board that flies through the air.
 * two tabbie cats (one long hair, one short hair) sitting on an ironing board, shown from below and the side.
 
 
-## Latest seed/gen phrase
+### Latest seed/gen phrase
 
 Two calico cats in profile(both tan, white and black).  Both are sitting on an ironing board looking over the front of the board.
 

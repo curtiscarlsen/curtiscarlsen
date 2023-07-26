@@ -1,2 +1,10 @@
 - [ ] Take out Trash and Composting 🔁 every 2 weeks on Thursday 🛫 2023-07-25 📅 2023-07-25
 - [ ] Take out Trash, Recycling, and Composting 🔁 every 2 weeks on Thursday 🛫 2023-07-25
+
+
+
+
+#aspects 
+
+#tasks 
+[[MOC - chores]]
