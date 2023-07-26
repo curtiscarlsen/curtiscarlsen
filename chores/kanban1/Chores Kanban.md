@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Inbox
 
-- [ ] Do Not Delete or Archive.  #tasks , [[MOC - chores]]
 
 
 ## DoNow
@@ -29,11 +28,6 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
-- [ ] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04
-- [x] replace A/C ⏫ 📅 2023-07-20 ✅ 2023-07-21
-- [ ] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04
-- [ ] Grocery shopping
-- [ ] Ask Tony about rpg games at cc
 
 
 ## context
@@ -46,22 +40,28 @@ kanban-plugin: basic
 - [ ] Clean garage floor
 - [ ] Screen in outdoor cat food station
 - [ ] Install deadbolt on back garage door
-- [ ] make egg pancakes @{2023-07-04} 📅
+- [x] make egg pancakes @{2023-07-04} 📅 ✅ 2023-07-25
 
 
 ***
 
 ## Archive
 
+- [x] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04 ✅ 2023-07-25
 - [x] replace A/C ⏫ 📅 2023-07-20 ✅ 2023-07-21
-- [ ] Ask Tony about rpg games at cc
+- [x] make lemon marmalade or lemon powder @{2023-07-04} 📅 2023-07-04 ✅ 2023-07-25
+- [x] Grocery shopping ✅ 2023-07-25
+- [x] Ask Tony about rpg games at cc ✅ 2023-07-25
+- [x] replace A/C ⏫ 📅 2023-07-20 ✅ 2023-07-21
+- [x] Ask Tony about rpg games at cc ✅ 2023-07-25
 - [x] start kanban board @{2023-06-19}
 - [x] unload dishes ✅ 2023-07-04
 - [x] set up shared obsidian repo ✅ 2023-07-19
-- [ ] set up shared obsidian repo
+- [x] set up shared obsidian repo ✅ 2023-07-25
 - [x] barbeque burgers @{2023-07-04} 📅 2023-07-04 ✅ 2023-07-19
 - [x] prep for barbeque @{2023-07-04} 📅 2023-07-04 ✅ 2023-07-19
-- [ ] make egg pancakes @{2023-07-04} 📅
+- [x] make egg pancakes @{2023-07-04} 📅 ✅ 2023-07-25
+- [x] Do Not Delete.  #tasks , [[MOC - chores]] ✅ 2023-07-25
 
 %% kanban:settings
 ```
