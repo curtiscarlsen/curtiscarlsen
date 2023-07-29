@@ -12,4 +12,7 @@
 	- sleep diary
 	- discuss rpgs
 	- play rpgs
-	- 
+
+# Aspects
+
+[[MOC]]

@@ -12,8 +12,8 @@ kanban-plugin: basic
 
 - [ ] Fix a screen partition on patio @{2023-06-19} [type::chore] ^y35ehf
 - [ ] Research flashing for roof to patio interface [type::chore]
-- [ ] add smbus commands to tx board
-- [ ] add smbus commands to FP
+- [ ] add smbus commands to tx board 📅 2023-07-29
+- [ ] add smbus commands to FP 📅 2023-07-29
 
 
 ## Planning
