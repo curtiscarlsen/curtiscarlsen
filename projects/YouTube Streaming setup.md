@@ -26,6 +26,6 @@ streaming and recording tool.
 	- USB mic
 
 # Aspects
-[[MOC_SocialStuff]]
+[[MOC - SocialStuff]]
 #reference/software/vlogging
 

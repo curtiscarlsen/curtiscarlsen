@@ -26,3 +26,7 @@ YouTube is best for non-gaming social, hobby, etc streams
 
 ## Twitch
 - mostly live streams
+
+# Aspects
+
+[[MOC - SocialStuff]]

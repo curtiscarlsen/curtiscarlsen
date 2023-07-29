@@ -5,4 +5,4 @@ URL: https://www.youtube.com/watch?v=Q9zv369Ggfk
 [[Tips for creating and growing a new Discord server]]
 
 
-[[MOC_SocialStuff]]
+[[MOC - SocialStuff]]
