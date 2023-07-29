@@ -1,1 +1,3 @@
-Discord server: Mycroft 
+Discord server: Mycroft (events text channel)
+
+YouTube Account: 
