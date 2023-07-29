@@ -13,12 +13,6 @@
     },
     {
       "type": "search",
-      "ctime": 1690305442204,
-      "query": "/- \\[[\\s]\\]/",
-      "title": "Pending Tasks"
-    },
-    {
-      "type": "search",
       "ctime": 1690303467809,
       "query": "tag:#entertainment",
       "title": "Entertainment"
@@ -59,6 +53,37 @@
       "ctime": 1690303405204,
       "query": "tag:#tasks",
       "title": "NOtes with tagged Chores/Tasks"
+    },
+    {
+      "type": "file",
+      "ctime": 1690652623649,
+      "path": "ShortList/Pending Task Summary.md"
+    },
+    {
+      "type": "search",
+      "ctime": 1690305442204,
+      "query": "/- \\[[\\s]\\]/",
+      "title": "Pending Tasks"
+    },
+    {
+      "type": "file",
+      "ctime": 1690652644018,
+      "path": "ShortList/Tasks Calendar.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1690652658649,
+      "path": "ShortList/MOC - Obsidian.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1690652666148,
+      "path": "ShortList/MOC - SocialStuff.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1690652673149,
+      "path": "ShortList/MOC - rpgs.md"
     }
   ]
 }
