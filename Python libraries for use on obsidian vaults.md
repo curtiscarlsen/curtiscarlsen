@@ -7,3 +7,5 @@ URL: https://www.youtube.com/watch?v=gRPBAKiu37Y
 # Aspects
 
 [[MOC - Obsidian]]
+
+#reference/obsidian 
