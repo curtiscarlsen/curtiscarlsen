@@ -23,5 +23,9 @@ streaming and recording tool.
 - setup microphone
 	- webcam mic?
 	- mixer mic
-	- usb mic
-	
+	- USB mic
+
+# Aspects
+[[MOC_SocialStuff]]
+#reference/software/vlogging
+
