@@ -9,6 +9,19 @@ Steps to upload a video:
 - click on upload video button
 
 Steps to do a live stream:
-- click on profile icon
-- select 'your channel'
-- 
+- click on camera icon
+- select 'live stream'
+
+## OBS Studio
+streaming and recording tool.
+- set up camera and screen views, give options for:
+	- PC screen with pic in bottom corner
+	- pic with PC screen in upper left corner
+	- pic only
+	- screen only
+
+- setup microphone
+	- webcam mic?
+	- mixer mic
+	- usb mic
+	
