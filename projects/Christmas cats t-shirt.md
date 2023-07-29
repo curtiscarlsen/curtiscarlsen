@@ -4,7 +4,7 @@
 https://www.printful.com/dashboard/custom/mens/long-sleeve-shirts/mens-long-sleeve-shirt-gildan-2400?color=Black&technique=T-SHIRT&size=3XL
 - [ ] 🛫 2023-07-25 set up account on printful site
 - [ ] design christmas cats shirt [type::project] ➕ 2023-07-25
-- [ ] purchase a couple of shirts [type::project]🛫 2023-07-25 
+- [ ] purchase a couple of shirts [type::project]🛫 2023-08-10
 - [ ] design and buy comic-con 2023 t-shirt 🛫 2023-08-25 
 
 # Creating artwork for the shirts
