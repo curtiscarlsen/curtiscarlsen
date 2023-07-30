@@ -19,3 +19,8 @@ If nonambulatory does she spend all her time in bed worse he also up to chair o
 Please forward information back to me.
 
 Contact me if any questions.'
+
+# Aspects
+
+#status/mom
+[[MOC - Mom]]
