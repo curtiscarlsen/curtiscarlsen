@@ -6,14 +6,11 @@
   "tag-wrangler",
   "oz-image-plugin",
   "note-refactor-obsidian",
-  "find-unlinked-files",
   "obsidian-charts",
-  "readwise-official",
   "fantasy-calendar",
   "obsidian-dice-roller",
   "initiative-tracker",
   "rpg-manager",
-  "execute-code",
   "obsidian-kanban",
   "obsidian-git",
   "obsidian-tasks-plugin",
@@ -21,12 +18,8 @@
   "periodic-notes",
   "calendar",
   "obsidian-5e-statblocks",
-  "obsidian42-strange-new-worlds",
-  "obsidian-omnivore",
   "settings-search",
   "obsidian-show-file-path",
-  "supercharged-links-obsidian",
   "obsidian-vault-changelog",
-  "obsidian-jupyter",
-  "python-lab-plugin"
+  "obsidian-jupyter"
 ]
