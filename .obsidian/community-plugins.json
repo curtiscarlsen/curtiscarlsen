@@ -21,5 +21,14 @@
   "settings-search",
   "obsidian-show-file-path",
   "obsidian-vault-changelog",
-  "obsidian-jupyter"
+  "obsidian-jupyter",
+  "obsidian-annotator",
+  "cm-editor-syntax-highlight-obsidian",
+  "execute-code",
+  "find-unlinked-files",
+  "obsidian42-strange-new-worlds",
+  "obsidian-omnivore",
+  "obsidian-outliner",
+  "python-lab-plugin",
+  "supercharged-links-obsidian"
 ]
