@@ -10,7 +10,8 @@
 	- Teach or discuss eng and design
 	- cooking
 	- sleep diary
-	[[discuss rpgs over stream]]
+	- testing
+	  [[discuss rpgs over stream]]
 	- [[play rpgs over stream]]
 
 # Aspects
