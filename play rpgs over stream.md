@@ -8,4 +8,4 @@
 - find players
 - advertise
 - practice streaming session on youtube or twitch
-- 
+- [ ] Set up a Patreon page ➕ 2023-07-30 🛫 2023-07-30
