@@ -1,5 +1,5 @@
 # steps to setup streaming games
--  prep discord server (separate one from my personal one) (done)
+- prep discord server (separate one from my personal one) (done)
 - prep OBS Studio with correct profile, scenes, etc to allow streaming pc screens wtih inset webcam and vice verse. (already done)
 - prep several games
 	- DND3.5e
@@ -8,4 +8,4 @@
 - find players
 - advertise
 - practice streaming session on youtube or twitch
-- [ ] Set up a Patreon page ➕ 2023-07-30 🛫 2023-07-30
+- [x] Set up a Patreon page ➕ 2023-07-30 🛫 2023-07-30 ✅ 2023-07-30
