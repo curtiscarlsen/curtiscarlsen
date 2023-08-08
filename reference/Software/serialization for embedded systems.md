@@ -1,6 +1,9 @@
 
 
 ## GitHub - DarrenLevine/cppserdes: A C++ serialization/deserialization library designed with embedded systems in mind
+- MIT License
+- supports structs, functional and stream i/o
+- big-endian storage only
 URL: https://github.com/DarrenLevine/cppserdes
 ## Exploring data serialization | Embedded Programming with Modern C++ Cookbook
 URL: https://subscription.packtpub.com/book/iot-&-hardware/9781838821043/8/ch08lvl1sec65/exploring-data-serialization
