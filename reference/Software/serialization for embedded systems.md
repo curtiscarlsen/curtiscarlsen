@@ -5,8 +5,7 @@
 - supports structs, functional and stream i/o
 - big-endian storage only
 URL: https://github.com/DarrenLevine/cppserdes
-## Exploring data serialization | Embedded Programming with Modern C++ Cookbook
-URL: https://subscription.packtpub.com/book/iot-&-hardware/9781838821043/8/ch08lvl1sec65/exploring-data-serialization
+
 ## (1) What is the best data serialization protocol for real-time embedded systems : embedded
 URL: https://www.reddit.com/r/embedded/comments/uoof74/what_is_the_best_data_serialization_protocol_for/
 
