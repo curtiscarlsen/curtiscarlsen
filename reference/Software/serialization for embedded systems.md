@@ -1,7 +1,5 @@
 
 
-## Data Serialisation - Practical Guide to Bare Metal C++
-URL: https://alex-robenko.gitbook.io/bare_metal_cpp/basic_needs/serialisation
 ## GitHub - DarrenLevine/cppserdes: A C++ serialization/deserialization library designed with embedded systems in mind
 URL: https://github.com/DarrenLevine/cppserdes
 ## Exploring data serialization | Embedded Programming with Modern C++ Cookbook
