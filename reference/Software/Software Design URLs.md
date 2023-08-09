@@ -1,5 +1,14 @@
 # Software Design URLs
 
+## cmake
+
+
+### CPM
+
+https://medium.com/swlh/cpm-an-awesome-dependency-manager-for-c-with-cmake-3c53f4376766
+
+https://github.com/cpm-cmake/CPM.cmake
+
 ## Install WSL | Microsoft Learn
 URL: https://learn.microsoft.com/en-us/windows/wsl/install
 ## C++ tools evolution: static code analyzers
