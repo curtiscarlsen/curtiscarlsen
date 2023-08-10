@@ -12,8 +12,8 @@ kanban-plugin: basic
 
 - [ ] Fix a screen partition on patio @{2023-06-19} [type::chore] ^y35ehf
 - [ ] Research flashing for roof to patio interface [type::chore]
-- [ ] add smbus commands to tx board 📅 2023-07-29
-- [ ] add smbus commands to FP 📅 2023-07-29
+- [x] add smbus commands to tx board 📅 2023-07-29  [completion:: 2023-08-09]
+- [x] add smbus commands to FP 📅 2023-07-29  [completion:: 2023-08-09]
 
 
 ## Planning
@@ -38,7 +38,7 @@ kanban-plugin: basic
 
 ## Someday
 
-- [ ] Clean garage floor [type::chore]
+- [x] Clean garage floor [type::chore]  [completion:: 2023-08-09]
 - [ ] Screen in outdoor cat food station [type::chore]
 - [ ] Install deadbolt on back garage door [type::chore]
 - [x] make egg pancakes @{2023-07-04} 📅 ✅ 2023-07-25
