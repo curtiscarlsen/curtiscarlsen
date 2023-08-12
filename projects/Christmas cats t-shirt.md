@@ -2,10 +2,19 @@
 
 # Use printful print on demand site to create custom printed t-shirts
 https://www.printful.com/dashboard/custom/mens/long-sleeve-shirts/mens-long-sleeve-shirt-gildan-2400?color=Black&technique=T-SHIRT&size=3XL
-- [ ] 🛫 2023-07-25 set up account on printful site
+- [x] 🛫 2023-07-25 set up account on printful site  [completion:: 2023-08-12]
+      printful allowed me to register using my google account
 - [ ] design christmas cats shirt [type::project] ➕ 2023-07-25
 - [ ] purchase a couple of shirts [type::project]🛫 2023-08-10
 - [ ] design and buy comic-con 2023 t-shirt 🛫 2023-08-25 
+## Comic Con Shirt designs
+### [[Comic Con T-shirts with Text only]]
+### Graphics 
+- comic character?
+- Kaiju (Godzila!!)
+- Sci Fi
+- Xmas cats
+- Rocket Man
 
 # Creating artwork for the shirts
 
