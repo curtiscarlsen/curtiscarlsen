@@ -1,6 +1,5 @@
 # Tasks Started or Due Now
-> [!note]- folded note
-> contents
+
 
 ## Tasks Started or Due Now
 ```tasks
