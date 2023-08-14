@@ -1,9 +1,9 @@
 # Tasks Started or Due Now
-	>[!note] Tasks Started or Due Now
-	> contents
-	
-	
- ```tasks
+> [!note] 
+>
+
+## Tasks Started or Due Now
+```tasks
 			# Only tasks that are not done, that is, which begin like this (but without the quotes):
 			#   '- [ ] ' or
 			#   '* [ ] ' or
@@ -26,7 +26,7 @@
 			
 			# Optionally, ask Tasks to explain how it interpreted this query:
 			# explain
-			```
+```
 
 
 ## Tasks Not started
