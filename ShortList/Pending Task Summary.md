@@ -1,6 +1,9 @@
 # Tasks Started or Due Now
-	[!example] Tasks Started or Due Now
-		```tasks
+	>[!note] Tasks Started or Due Now
+	> contents
+	
+	
+ ```tasks
 			# Only tasks that are not done, that is, which begin like this (but without the quotes):
 			#   '- [ ] ' or
 			#   '* [ ] ' or
