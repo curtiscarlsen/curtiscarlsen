@@ -24,3 +24,5 @@ classes should not directly depend on other classes, but abstractions (reference
 
 move features for a class into their own classes accessed by an internal reference pointer, and the choose the right implementation subclass and supply it as a constructor argument at instanciation.
 
+## Visitor Pattern
+
