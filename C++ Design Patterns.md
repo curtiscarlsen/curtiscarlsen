@@ -35,3 +35,11 @@ Adapts the interface of one object to another.  Implemented as a wrapper class a
 ## Observer Pattern
 Create generic classes that monitor classes of events and notifies interested classes of changes.
 
+has command, receiver, invoker and client objects in its design.  command object manages running the method of the receiver.  invoker calls/triggers the command. receiver implements the actual command code.  client manages the relationships between the other 3 classes.
+
+## Curiously Recurring Template Pattern
+Passing the derived class to a base class as a template parameter.  This allows the base class to access elements of the derived class.
+
+* Can be used to implement static mixin classes.
+
+
