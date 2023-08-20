@@ -18,3 +18,9 @@ But this requires multiple inheritance which is not allowed at RB...
 
 classes should not directly depend on other classes, but abstractions (reference pointers) of those classes, so that the class being used can be substituted with a derived class.
 
+# Design Patterns
+
+## Strategy Pattern
+
+
+
