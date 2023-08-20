@@ -9,10 +9,10 @@ classes should be able to extend where needed without recoding the class
 subclasses should be directly substitutable for the base class
 
 ## Interface Segregation Principle
-sub-classes should not have define interfaces they do not use
+sub-classes should not have to define interfaces they do not use
 make interface features separate classes and inherit from those classes as needed for each subclass
 
-But this requires multiple inheritance which is not allowed...
+But this requires multiple inheritance which is not allowed at RB...
 
 ## Dependancy Inversion Principle
 
