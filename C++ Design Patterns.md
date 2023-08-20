@@ -26,3 +26,4 @@ move features for a class into their own classes accessed by an internal referen
 
 ## Visitor Pattern
 
+Abstract method calls for classes.  Traditional implementation for this pattern uses Accept and pointers which tends to be quite slow and complicated.  A new suggestion from 'Design Patterns and Principles' is to use std::variant as a type-safe union, allowing us to use one abstracting object to access objects of different types.  
