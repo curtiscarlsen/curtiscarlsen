@@ -32,3 +32,6 @@ Abstract method calls for classes.  Traditional implementation for this pattern 
 
 Adapts the interface of one object to another.  Implemented as a wrapper class around the original class.  If one needs to change the functionality of a class, and there are many instances of the old class, adaptor pattern can be used to wrap the old classes and make them work like new ones without changing the old class.
 
+## Observer Pattern
+Create generic classes that monitor classes of events and notifies interested classes of changes.
+
