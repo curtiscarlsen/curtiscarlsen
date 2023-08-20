@@ -3,10 +3,10 @@
 ## Single Responsibility per class
 
 ## Open to extension, closed to change
-classes should be able to extend where needed without recoding the class
+classes should be able to extend where needed without re-coding the class
 
-## Liskov Substitition Principle
-subclasses should be directly substitutable for the base class
+## Liskov Substition Principle
+sub-classes should be directly substitutable for the base class
 
 ## Interface Segregation Principle
 sub-classes should not have to define interfaces they do not use
@@ -14,7 +14,7 @@ make interface features separate classes and inherit from those classes as neede
 
 But this requires multiple inheritance which is not allowed at RB...
 
-## Dependancy Inversion Principle
+## Dependency Inversion Principle
 
 classes should not directly depend on other classes, but abstractions (reference pointers) of those classes, so that the class being used can be substituted with a derived class.
 
@@ -22,5 +22,5 @@ classes should not directly depend on other classes, but abstractions (reference
 
 ## Strategy Pattern
 
-
+move features for a class into their own classes accessed by an internal reference pointer, and the choose the right implementation subclass and supply it as a constructor argument at instanciation.
 
