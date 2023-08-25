@@ -61,15 +61,15 @@
           "type": "file",
           "ctime": 1690652644018,
           "path": "ShortList/Tasks Calendar.md"
-        },
-        {
-          "type": "search",
-          "ctime": 1690305442204,
-          "query": "/- \\[[\\s]\\]/",
-          "title": "All Pending Tasks"
         }
       ],
       "title": "Tasks Group"
+    },
+    {
+      "type": "search",
+      "ctime": 1690305442204,
+      "query": "/- \\[[\\s]\\]/",
+      "title": "All Pending Tasks"
     },
     {
       "type": "group",
