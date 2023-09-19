@@ -10,8 +10,6 @@ mindmap-plugin: basic
 - Forbidden
     - backbends
     - ?forward bends?
-    - active high impact sports
-    - walks long enough to cause pain
 - recommended
     - knee to chest lying on back
     - Figure 4 seated knee to chest stretch
@@ -37,6 +35,9 @@ mindmap-plugin: basic
     - On back, pull navel down to floor
     - Curl-ups (NOT sit-ups)
     - seated forward bend fingers to floor
+- Forbidden
+    - active high impact sports
+    - walks long enough to cause pain
 
 ## Treatments
 - Surgery
