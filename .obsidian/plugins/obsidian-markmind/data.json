@@ -16,6 +16,7 @@
   "highlightFormat": "\nPage:{{page}}\n<span style=\"color:rgb({{color}})\">■</span>:{{highlightText}}\nComment:{{comment}}\n[📌]({{link}})\n^{{id}}\n",
   "setup": 1695091829419,
   "uid": "00p01001300t00o01300p01300q00t00s00q00r",
-  "strokeArray": "black, blue, green, gray",
-  "useMarkdownSaveAnnotation": "md"
+  "strokeArray": "black, blue, brown, green, gray",
+  "useMarkdownSaveAnnotation": "md",
+  "nodeColorArray": "black, blue, brown, green, gray"
 }

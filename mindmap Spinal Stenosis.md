@@ -30,8 +30,10 @@ mindmap-plugin: basic
     - short walks
     - rowing ( as long as it does not cause pain or worse sypmtoms)
         - [[Stretching and exercises for Spinal Stenosis]]
-           ## Is A Rowing Machine Good for Spinal Stenosis? Rowing Crazy
-           URL: https://www.rowingcrazy.com/is-a-rowing-machine-good-for-spinal-stenosis/
+    - Plank
+    - side plank
+    - Easy pushups (on knees)
+    - Is A Rowing Machine Good for Spinal Stenosis? Rowing Crazy
     - On back, pull navel down to floor
     - Curl-ups (NOT sit-ups)
     - seated forward bend fingers to floor
