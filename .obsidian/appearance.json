@@ -2,5 +2,6 @@
   "accentColor": "#0000ff",
   "theme": "moonstone",
   "baseFontSize": 19,
-  "cssTheme": "obsidian_ia"
+  "cssTheme": "obsidian_ia",
+  "textFontFamily": "Arial"
 }

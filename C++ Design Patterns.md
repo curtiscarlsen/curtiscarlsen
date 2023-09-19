@@ -26,14 +26,14 @@ move features for a class into their own classes accessed by an internal referen
 
 ## Visitor Pattern
 
-Abstract method calls for classes.  Traditional implementation for this pattern uses Accept and pointers which tends to be quite slow and complicated.  A new suggestion from 'Design Patterns and Principles' is to use std::variant as a type-safe union, allowing us to use one abstracting object to access objects of different types.  
+Dynamically abstract method calls to contained classes.  Traditional implementation for this pattern uses Accept and pointers which tends to be quite slow and complicated.  A new suggestion from 'Design Patterns and Principles' is to use std::variant as a type-safe union, allowing us to use one abstracting object to access objects of different types.  
 
 ## Adaptor Pattern
 
 Adapts the interface of one object to another.  Implemented as a wrapper class around the original class.  If one needs to change the functionality of a class, and there are many instances of the old class, adaptor pattern can be used to wrap the old classes and make them work like new ones without changing the old class.
 
 ## Observer Pattern
-Create generic classes that monitor classes of events and notifies interested classes of changes.
+Create generic classes that monitor classes of events and notifiy interested classes of changes.
 
 has command, receiver, invoker and client objects in its design.  command object manages running the method of the receiver.  invoker calls/triggers the command. receiver implements the actual command code.  client manages the relationships between the other 3 classes.
 
