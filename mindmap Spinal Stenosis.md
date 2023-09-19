@@ -16,8 +16,8 @@ mindmap-plugin: basic
     - knee to chest lying on back
     - Figure 4 seated knee to chest stretch
     - Cat/Cow
+    - Child's Pose
     - Knees to chest
-        - Child's Pose
     - Pelvic tilt
     - ?Bridge?
     - Alternate arm/leg stretch (bird-dog)
@@ -31,6 +31,9 @@ mindmap-plugin: basic
     - swimming
     - short walks
     - rowing ( as long as it does not cause pain or worse sypmtoms)
+        - [[Stretching and exercises for Spinal Stenosis]]
+           ## Is A Rowing Machine Good for Spinal Stenosis? Rowing Crazy
+           URL: https://www.rowingcrazy.com/is-a-rowing-machine-good-for-spinal-stenosis/
     - On back, pull navel down to floor
     - Curl-ups (NOT sit-ups)
     - seated forward bend fingers to floor
@@ -40,3 +43,19 @@ mindmap-plugin: basic
     - widen opening
     - spinal fusion
         - only for most advanced cases
+
+## Resources
+- Spine Zone
+- Sharp Physical Therapy
+    - Monica @ Santee location
+
+## Current Regimen
+- Cat/Cow
+- Child's Pose
+- Knees to Chest
+    - Plain
+    - Figure 4
+- Bird Dog
+- Rowing
+- Short Walks
+- Curl-Ups

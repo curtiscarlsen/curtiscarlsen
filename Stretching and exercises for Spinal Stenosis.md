@@ -7,4 +7,9 @@ URL: https://painandspinespecialists.com/best-sleeping-positions-for-lumbar-spin
 ## 15 Spinal Stenosis Exercises You Can Do Anywhere – Pain Doctor
 URL: https://paindoctor.com/spinal-stenosis-exercises/#:~:text=Full%20sit%2Dups%20put%20too,doesn't%20provide%20much%20benefit.
 
+[[Stretching and exercises for Spinal Stenosis]]
+## Is A Rowing Machine Good for Spinal Stenosis? Rowing Crazy
+URL: https://www.rowingcrazy.com/is-a-rowing-machine-good-for-spinal-stenosis/
+
+
 [[mindmap Spinal Stenosis]]
