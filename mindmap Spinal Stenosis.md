@@ -28,9 +28,10 @@ mindmap-plugin: basic
 - recommended
     - swimming
     - short walks
-    - rowing ( as long as it does not cause pain or worse sypmtoms)
-        - [[Stretching and exercises for Spinal Stenosis]]
+    - rowing ( as long as it does not cause pain or worse symptoms)
     - Plank
+        - ## Exercise Can Relieve Spinal Stenosis - ShimSpine
+           URL: https://www.shimspine.com/exercise-can-relieve-spinal-stenosis/#:~:text=The%20simplest%20one%20to%20do,Hold%20this%20position%2C%20breathing%20comfortably.
     - side plank
     - Easy pushups (on knees)
     - Is A Rowing Machine Good for Spinal Stenosis? Rowing Crazy
@@ -62,3 +63,5 @@ mindmap-plugin: basic
 - Rowing
 - Short Walks
 - Curl-Ups
+
+## [[Stretching and exercises for Spinal Stenosis]]

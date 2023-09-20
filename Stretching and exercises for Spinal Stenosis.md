@@ -10,6 +10,8 @@ URL: https://paindoctor.com/spinal-stenosis-exercises/#:~:text=Full%20sit%2Dups%
 [[Stretching and exercises for Spinal Stenosis]]
 ## Is A Rowing Machine Good for Spinal Stenosis? Rowing Crazy
 URL: https://www.rowingcrazy.com/is-a-rowing-machine-good-for-spinal-stenosis/
+## Exercise Can Relieve Spinal Stenosis - ShimSpine
+URL: https://www.shimspine.com/exercise-can-relieve-spinal-stenosis/#:~:text=The%20simplest%20one%20to%20do,Hold%20this%20position%2C%20breathing%20comfortably.
 
 
 [[mindmap Spinal Stenosis]]
