@@ -31,7 +31,7 @@ picture of the christmas cats (started gen'ing the pic with dall-e-2 web site, r
 
 Two calico cats in profile(both tan, white and black).  Both are sitting on an ironing board looking over the front of the board.
 
-https://creator.nightcafe.studio/studio?open=creation&panelContext=%28jobId%3A9jXejOe0wd0LuIjCD00X%29
+https://creator.nightcafe.studio/studio?open=creation&panelContext=%28jobId%3A9jXejOe0wd0LuIjCD00X%29 ^0f9f54
 
 
 ![[Pasted image 20230701111848.png]]![[Pasted image 20230701123342.png]]
