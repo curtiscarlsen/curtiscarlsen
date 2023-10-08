@@ -1,5 +1,5 @@
 
-{mic_title::Choir with organ, rear placed mics}
+{mic_title::CO_R}
 {mic_placements::BL, BR}
 {mic_results_vocal_blend::??}
 {mic_results_voice_instrumental_blend::??}
