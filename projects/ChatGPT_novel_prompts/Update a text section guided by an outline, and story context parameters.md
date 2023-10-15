@@ -6,12 +6,12 @@ genre: action adventure
 pacing: fast
 format: novel
 
-focused elements: 1.1, 1.2
-
 context outline:
 1.0 A dog bites a man
 1.1 A witch curses the man
 1.2 The dog gets rabies
+
+focused elements: 1.1, 1.2
 
 Inspiration:
 Jack London exited his tent at dawn.  But as he straightened up, his trusty dog Fido sank its fangs into his derriere.  Shouting obscenities, London drew his revolver and shot the animal.  
