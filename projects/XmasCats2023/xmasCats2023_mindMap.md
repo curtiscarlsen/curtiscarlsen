@@ -7,9 +7,11 @@ page-title:
 ## arthritis
 * Sweetpea's tail aches
 * Boo's toes hurt
+* induced by fertilizer
 ## sleep issues
 - oversleeping
 - insomnia
+- induced by fertilizer
 
 ## Suicidal Mice
 - Religion
