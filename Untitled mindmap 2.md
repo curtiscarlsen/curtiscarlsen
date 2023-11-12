@@ -4,12 +4,20 @@ mindmap-plugin: basic
 
 ---
 
-# test
+# Xmas Cats 2023
 
-## cat1
+## arthritis
 
-## cat2
+## sleep issues
+- oversleeping
+- insomnia
 
-## cat3
-- subcat3.1
-- subcat 3.2
+## Suicidal Mice
+- Religion
+- Cult
+- Chemical Imbalance
+
+## Backyard Jungle
+- Curtis Lazy
+- Sweetpea experimenting with fertilizers
+- Boo growing catnip
