@@ -18,6 +18,6 @@ mindmap-plugin:
 - Chemical Imbalance
 
 ## Backyard Jungle
-- Curtis Lazy
+- Curtis Lazy & Lorri working full time at Church
 - Sweetpea experimenting with fertilizers
 - Boo growing catnip
