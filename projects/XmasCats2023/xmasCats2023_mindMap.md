@@ -19,4 +19,4 @@ page-title:
 ## Backyard Jungle
 - Curtis Lazy & Lorri working full time at Church
 - Sweetpea experimenting with fertilizers
-- Boo growing catnip
+- Boo growing catnip, using mice to harvest it.
