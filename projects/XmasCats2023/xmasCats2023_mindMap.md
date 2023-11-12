@@ -1,7 +1,5 @@
 ---
-
-mindmap-plugin: 
-
+cssclasses:
 ---
 
 # Xmas Cats 2023
@@ -15,7 +13,7 @@ mindmap-plugin:
 ## Suicidal Mice
 - Religion
 - Cult
-- Chemical Imbalance
+- Chemical Imbalance from fertilizer
 
 ## Backyard Jungle
 - Curtis Lazy & Lorri working full time at Church
