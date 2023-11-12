@@ -1,11 +1,12 @@
 ---
-cssclasses:
+page-title:
 ---
 
 # Xmas Cats 2023
 
 ## arthritis
-
+* Sweetpea's tail aches
+* Boo's toes hurt
 ## sleep issues
 - oversleeping
 - insomnia
