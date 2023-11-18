@@ -16,6 +16,8 @@ https://www.printful.com/dashboard/custom/mens/long-sleeve-shirts/mens-long-slee
 - Xmas cats
 - Rocket Man
 
+# ecommerce stores can be connected to pring
+
 # Creating artwork for the shirts
 
 ## nightcafe allows 5 pictures per day, I can try to dial something in before CC
