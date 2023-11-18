@@ -16,8 +16,19 @@ https://www.printful.com/dashboard/custom/mens/long-sleeve-shirts/mens-long-slee
 - Xmas cats
 - Rocket Man
 
-# ecommerce stores can be connected to pring
-
+# ecommerce stores can be connected to printful
+## Marketplaces:
+* Etsy
+* Amazon
+* Ebay - no listing fees, 10% of each sale
+* Storenvy - can setup shop, no host fees, large percent of each sale
+	* sounds like good choice for low effort sales
+## Ecommerce hosting sites - standalone stores
+* Shopify $25 per month 
+	* best printful integration
+## Personal ecommerce platform - self hosted
+* woocommerce - plugin for wordpress
+	* Printful has automated integration
 # Creating artwork for the shirts
 
 ## nightcafe allows 5 pictures per day, I can try to dial something in before CC
