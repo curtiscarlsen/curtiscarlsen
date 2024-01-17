@@ -1,4 +1,4 @@
-# LLC legal liability
+# LLC - legal liability
 
 # local/ city requirements
  https://www.californiaregisteredagent.com/starting-california-business/san-diego/
@@ -17,6 +17,6 @@ A start business license may also be required.
 
 
 
-# insurance -business fin liability
+# insurance -business financial liability
 
 
