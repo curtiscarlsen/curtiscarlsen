@@ -10,4 +10,6 @@ Use freelance traveller low prep design guide
 * https://travellermap.com/?p=-69.014!-18.959!1.55&dimunofficial=1
 	* existing maps for a whole traveller galaxy
 	* Start off in Trojan Reach subsector?
-	* Let players decide on subsector
+	* Let players decide on starting star system
+* start running game in roll20?
+* 
