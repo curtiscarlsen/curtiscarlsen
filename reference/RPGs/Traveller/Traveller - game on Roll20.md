@@ -9,8 +9,11 @@
 
 ## Game Flow
 * Design Adventure
+	* [[First Classic Traveller Game#adventure design]]
 * First session
+	* [[First Classic Traveller Game#(1) Random RPG Faction Generator worldbuilding]]
 	* Character Design
+		* [[Traveller - Rules#Classic Traveller]]
 	* Set Starting Scene
 * Subsequent Sessions
 	* Synopsis
