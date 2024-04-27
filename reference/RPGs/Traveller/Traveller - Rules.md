@@ -1,12 +1,14 @@
-## RPG comparisons*
+## RPG comparisons
 ### Reddit - Dive into anything
 URL: https://www.reddit.com/r/traveller/comments/i2au49/starfinder_or_traveller/
 
 ## Classic Traveller
-* Free download of original traveller core rules
-file:///home/curtis/Desktop/RPG/Traveller/Classic_Facsimile_RePrint_v3_162_pp_from_Scans_Text.pdf
+* Free download of original traveller core rules (Little Black Books)
+file:///home/curtis/Desktop/RPG/Traveller/Books/Classic_Facsimile_RePrint_v3_162_pp_from_Scans_Text.pdf
 
-	* 
+	* Book1 - Characters and Combat
+	* Book2 - Ships
+	* Book3 - Worlds and Adventures
 
 ## Traveller version comparisons
 * Marc Miller's traveller is considered the worst of the many versions of traveller.  Due to errata and problems in tables in the rulebook.
