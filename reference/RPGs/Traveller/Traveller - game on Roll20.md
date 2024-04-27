@@ -10,4 +10,7 @@
 * First session
 	* Character Design
 	* Set Starting Scene
+* Subsequent Sessions
+	* Synopsis
+	* Running Scenes
 	* 
