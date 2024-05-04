@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8f83f658dcf37c9b","x":-580,"y":-540,"width":400,"height":400,"type":"file","file":"projects/XmasCats2023/Arthritis.md"},
+		{"id":"0a81ba8460e59ad9","x":-580,"y":0,"width":400,"height":400,"type":"file","file":"projects/XmasCats2023/Suicidal Mice.md"},
+		{"id":"fa4075d3db0ddad3","x":20,"y":0,"width":400,"height":400,"type":"file","file":"projects/XmasCats2023/Sleep Issues.md"},
+		{"id":"9ddeea8a237bd9c5","x":20,"y":-540,"width":400,"height":400,"type":"file","file":"projects/XmasCats2023/Backyard Jungle.md"}
+	],
+	"edges":[]
+}
