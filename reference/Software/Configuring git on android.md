@@ -1,4 +1,4 @@
-Goal: To allow pulling and pushing from a gitlab or github repo from android phone.  Sor now it is just to support syncing Obsidian with my desktop
+Goal: To allow pulling and pushing from a gitlab or github repo from android phone.  For now it is just to support syncing Obsidian with my desktop
 
 Note:  These instructions did not fully work, but that was probably due to an old version of termux from playstore being left over on the phone.  
 
