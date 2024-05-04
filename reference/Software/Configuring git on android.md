@@ -20,6 +20,7 @@ Note:  These instructions did not fully work, but that was probably due to an ol
 			- Specifically, the folder ~/storage/shared/Documents/obsidian-vaults/general needs to have the obsidian vault to be shared in it.  That is what obsidian uses
 			- Obsidian needs to be configured to use the general vault
 	- git clone --separate-git-dir <local_git_admin_dir> <github url> <local obsidian work dir>  
+		- git clone --separate-git-dir ~/storage/shared/git-obsidian-local-repo https://github.com/curtiscarlsen/curtiscarlsen  ~/storage/shared/Documents/obsidian-vaults/general
 
 # aspects
 
