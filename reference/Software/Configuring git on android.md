@@ -25,7 +25,7 @@ Note:  These instructions did not fully work, but that was probably due to an ol
 		- git clone --separate-git-dir ~/storage/shared/git-obsidian-local-repo https://github.com/curtiscarlsen/curtiscarlsen  general2
 		- git on s23 needs to be setup with SSH key and  no password
 	- # configure git to use ssh certificate for repo access from S23
-		- 
+		- git
 
 # aspects
 
