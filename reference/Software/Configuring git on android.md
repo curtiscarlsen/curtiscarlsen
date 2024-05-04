@@ -17,10 +17,10 @@ Note:  These instructions did not fully work, but that was probably due to an ol
 	- apt install git -y
 	- termux-setup-storage
 		- Make sure that termux can see the mobile's data folders under ~/storage/shared.
-			- Specifically, the folder ~/storage/shared/Documents/obsidian-vaults/general needs to have the obsidian vault to be shared in it.  That is what obsidian uses
-			- Obsidian needs to be configured to use the general vault
+			- Specifically, the folder ~/storage/shared/Documents/Obsidian-Vaults/general needs to have the obsidian vault to be shared in it.  That is what obsidian uses
+			- Obsidian needs to be configured to use the general vault(open the vault from the left-hand slide-window.)
 	- git clone --separate-git-dir <local_git_admin_dir> <github url> <local obsidian work dir>  
-		- git clone --separate-git-dir ~/storage/shared/git-obsidian-local-repo https://github.com/curtiscarlsen/curtiscarlsen  ~/storage/shared/Documents/obsidian-vaults/general
+		- Actual command used on S23:   git clone --separate-git-dir ~/storage/shared/git-obsidian-local-repo https://github.com/curtiscarlsen/curtiscarlsen  ~/storage/shared/Documents/Obsidian-Vaults/general
 
 # aspects
 
