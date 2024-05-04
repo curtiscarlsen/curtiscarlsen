@@ -8,7 +8,7 @@ Note:  These instructions did not fully work, but that was probably due to an ol
 # Steps
 - excerpted from https://amirpourmand.ir/posts/2023/how-to-sync-obsidian/
 - Install termux FROM F-DROID (play store version no longer maintained)
-``` /bin/bash
+ /bin/bash
 	- apt update
 	- termux-change-repo
 		- change to another repos since the default has been terminated
@@ -16,8 +16,10 @@ Note:  These instructions did not fully work, but that was probably due to an ol
 	- apt install openssh -y
 	- apt install git -y
 	- termux-setup-storage
+		- Make sure that termux can see the mobile's data folders under ~/storage/shared.
+			- Specifically, the folder ~/storage/shared/Documents/obsidian-vaults/general needs to have the obsidian vault to be shared in it.  That is what obsidian uses
+			- Obsidian needs to be configured to use the general vault
 	- git clone --separate-git-dir <local_git_admin_dir> <github url> <local obsidian work dir>  
-```
 
 # aspects
 
