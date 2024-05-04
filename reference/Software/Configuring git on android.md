@@ -19,8 +19,13 @@ Note:  These instructions did not fully work, but that was probably due to an ol
 		- Make sure that termux can see the mobile's data folders under ~/storage/shared.
 			- Specifically, the folder ~/storage/shared/Documents/Obsidian-Vaults/general needs to have the obsidian vault to be shared in it.  That is what obsidian uses
 			- Obsidian needs to be configured to use the general vault(open the vault from the left-hand slide-window.)
-	- git clone --separate-git-dir <local_git_admin_dir> <github url> <local obsidian work dir>  
-		- Actual command used on S23:   git clone --separate-git-dir ~/storage/shared/git-obsidian-local-repo https://github.com/curtiscarlsen/curtiscarlsen  ~/storage/shared/Documents/Obsidian-Vaults/general
+	- # git clone --separate-git-dir <local_git_admin_dir> <github url> <local obsidian work dir>  
+		- # Actual commands used on S23 to clone github repo.  Leaves old local branch and creates new one to link to remote:   
+		- cd ~/storage/shared/Documents/Obsidian-Vaults
+		- git clone --separate-git-dir ~/storage/shared/git-obsidian-local-repo https://github.com/curtiscarlsen/curtiscarlsen  general2
+		- git on s23 needs to be setup with SSH key and  no password
+	- # configure git to use ssh certificate for repo access from S23
+		- 
 
 # aspects
 
