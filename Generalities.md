@@ -4,7 +4,7 @@
 [[Pycharm]]
 
 ## C++
-[[vscode]]
+[[vscode 1]]
 
 # Writing
 

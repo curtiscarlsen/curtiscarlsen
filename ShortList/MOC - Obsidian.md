@@ -6,7 +6,7 @@ list from [[]] and !outgoing([[]])
 # Obsidian Techniques and Tips
 - [[reference/Software/Obsidian/Obsidian Date Formatting]]
 - [[Outlines in Obsidian]]
-- [[Zettelkasten]]
+- [[Zettelkasten 1]]
 - [[callouts]]
 
 # Obsidian External Tools

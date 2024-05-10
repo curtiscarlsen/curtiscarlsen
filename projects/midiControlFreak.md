@@ -28,7 +28,7 @@ python edited in pycharm: project name midiControlFreak
 		* add current movie to playlist bookmark folder
 		* create new playlist bookmark folder
 		* select existing playlist bookmark folder
-* [[reference/Story Writing]]
+* [[reference/Writing/Story Writing]]
 * [[Research]]
 	* open Obsidian
 	* create Obsidian folder for new research/design project (different template/folder setup for each project type (pure research, software, electronics, cosplay,  physics, mechanical design?)
@@ -43,7 +43,7 @@ python edited in pycharm: project name midiControlFreak
 
 ## to open bookmarks folder
 * send win-left to current window (move to left side)
-* send keys to chrome using [[xdotool]] :
+* send keys to chrome using [[xdotool 1]] :
 	* ctrl+n 'chrome://bookmarks/...' \n  (customized for the actual bookmarks subfolder you want)
 
 [[MOC - Software Projects]]
