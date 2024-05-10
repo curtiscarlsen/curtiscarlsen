@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Inbox
 
-- [ ] Paint Eaves, one section at a time, once a week @{2023-06-19} [[Chores Kanban#^y35ehf]]
+- [ ] Paint Eaves, one section at a time, once a week @{2023-06-19} [[kanban1/Chores Kanban#^y35ehf]]
 - [ ] [[Fix a screen partition on patio @{2023-06-19}]] ^y35ehf
 - [x] Install deadbolt on back garage door @{2023-06-19}  [completion:: 2024-05-04]
 - [x] Clean garage floor <br>@{2023-06-19}  [completion:: 2024-05-04]
