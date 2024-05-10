@@ -28,7 +28,7 @@ python edited in pycharm: project name midiControlFreak
 		* add current movie to playlist bookmark folder
 		* create new playlist bookmark folder
 		* select existing playlist bookmark folder
-* [[Story Writing]]
+* [[reference/Story Writing]]
 * [[Research]]
 	* open Obsidian
 	* create Obsidian folder for new research/design project (different template/folder setup for each project type (pure research, software, electronics, cosplay,  physics, mechanical design?)

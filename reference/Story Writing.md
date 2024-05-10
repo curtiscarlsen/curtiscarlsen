@@ -1,4 +1,4 @@
-[[Story Writing]]
+[[reference/Story Writing]]
 	* [[Story Research]]
 	* plotting (outline)
 	* editing the narrative
