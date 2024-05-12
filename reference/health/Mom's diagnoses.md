@@ -14,3 +14,5 @@ IBS
 lactose intolerance
 Prediabetes
 Seizures
+# Aspects
+[[MOC - Mom]]
