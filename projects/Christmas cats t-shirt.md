@@ -6,7 +6,7 @@ https://www.printful.com/dashboard/custom/mens/long-sleeve-shirts/mens-long-slee
       printful allowed me to register using my google account
 - [x] design christmas cats shirt [type::project] ➕ 2023-07-25  [completion:: 2023-09-27]
 - [ ] purchase a couple of shirts [type::project]🛫 2023-08-10
-- [ ] design and buy comic-con 2023 t-shirt 🛫 2023-08-25 
+- [ ] design and buy comic-con 2023 t-shirt 🛫 2023-08-25
 
 ## Can make single orders directly from Printful
 ## Comic Con Shirt designs
