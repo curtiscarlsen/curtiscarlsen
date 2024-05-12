@@ -1,4 +1,4 @@
-cli tool to send key and mouse events to xserver windows to implement macros
+Ubuntu cli tool to send key and mouse events to xserver windows to implement macros
 
 https://www.semicomplete.com/projects/xdotool/
 https://manpages.ubuntu.com/manpages/trusty/man1/xdotool.1.html
