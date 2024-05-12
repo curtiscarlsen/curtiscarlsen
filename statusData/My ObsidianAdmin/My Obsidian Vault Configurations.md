@@ -1,16 +1,13 @@
-# Folders Annotate How Notes Are Used In the Vault
+# Folders Annotate How Notes are Used
 * notes can be used as:
 	* **reference** materials
 	* **chore** reminders
-	* Notes and status tracking for **projects** 
-	* rpg (character, game, world, etc) background and **statusData** tracking
-	* shortList of summary and important admin notes
-	* **attachments** used by other notes
+	* **project** notes
+	* rpg character, game, world, etc background and **status** tracking
+	* 
 
-# Tags Annotate Aspects of How Things Work 
-- Descriptions of physical properties/interactions
-- Usages
-- 
+# Tags Annotate Aspects of How Things Can Be Used, classes of project
+
 # Links Show Relationships between Different Notes/Subjects
 
 #admin 
