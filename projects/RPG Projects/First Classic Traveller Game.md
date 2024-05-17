@@ -19,6 +19,8 @@ URL: https://www.reddit.com/r/worldbuilding/comments/e62tsp/random_rpg_faction_g
 	* Start off in Trojan Reach subsector?
 * Let players decide on starting star system
   * https://www.reddit.com/r/AskGameMasters/comments/1bhcmyk/ive_been_a_gm_since_forever_and_still_dont_have_a/
+## Starting Location
+Perrior
 ## Finding a Patron
 Patrons are a specific type of NPC, see encounters in LBB3 p25.  The search for a patron takes 1 week, and 1d6 is thrown.  On 5 or 6 a patron is found.
 It took two months for Fred to find a patron (8th roll).
@@ -26,6 +28,7 @@ D66 roll was 11 which means patron is an Arsonist. (from Patron Encounters table
 Reaaction 2D6 roll was 10, which means responsive (from reaction table on P27)
 
 ### Description
-Pedro has a job o
+After searching for months, Fred finally runs across Pedro the arsonist in a bar.  Pedro has a job on Cyan.  He needs a pilot when he gets to the planet.  He hires Fred at going rate + ?20%?.  (Make a bargaining roll to see how well Fred would actually do)
+
 # Aspects
 [[MOC - rpgs]]
