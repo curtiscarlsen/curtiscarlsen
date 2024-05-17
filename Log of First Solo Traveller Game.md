@@ -7,10 +7,11 @@
 ## Fred
 * [Fred](file:///home/curtis/Desktop/RPG/Traveller/character sheets/fred.pdf)
 # Finding a Patron
+## Pedro the Patron
 
 # Getting to a new planet
 
-# tracking down target
+# Tracking down target
 
 # Trading
 
