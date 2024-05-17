@@ -19,6 +19,8 @@ URL: https://www.reddit.com/r/worldbuilding/comments/e62tsp/random_rpg_faction_g
 	* Start off in Trojan Reach subsector?
 * Let players decide on starting star system
   * https://www.reddit.com/r/AskGameMasters/comments/1bhcmyk/ive_been_a_gm_since_forever_and_still_dont_have_a/
+## Finding a Patron
+Patrons are a specific type of NPC, see encounters in LBB3
 
 # Aspects
 [[MOC - rpgs]]

@@ -5,7 +5,7 @@
 	* Pax Rulin SubSector
 # Character Gen
 ## Fred
-* [Fred](file:///home/curtis/Desktop/RPG/Traveller/character sheets/fred.pdf)
+* [Fred](<file:///home/curtis/Desktop/RPG/Traveller/character sheets/fred.pdf>)
 # Finding a Patron
 ## Pedro the Patron
 
