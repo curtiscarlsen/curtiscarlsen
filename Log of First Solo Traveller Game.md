@@ -8,6 +8,7 @@
 * [Fred](<file:///home/curtis/Desktop/RPG/Traveller/character sheets/fred.pdf>)
 # Finding a Patron
 ## Pedro the Patron
+arsonist who has a contract on 
 
 # Getting to a new planet
 
