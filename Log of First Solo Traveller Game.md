@@ -3,12 +3,16 @@
 * Just use the TravellerMap per [[First Classic Traveller Game#adventure design]] 
 	* Trojan Reach Sector
 	* Pax Rulin SubSector
+	* staring on planet Perrior
 # Character Gen
 ## Fred
 * [Fred](<file:///home/curtis/Desktop/RPG/Traveller/character sheets/fred.pdf>)
 # Finding a Patron
+It took 2 months *8 search 1d6 rolls that cover one week each.*
+The patron reaction 2d6 roll was a 10, which gave a positive reaction, so Fred was hired.  I should to a haggling roll to see what Fred is payed.
 ## Pedro the Patron
-arsonist who has a contract on 
+arsonist who has a contract on Cyan to set a fire in a factory.
+
 
 # Getting to a new planet
 
