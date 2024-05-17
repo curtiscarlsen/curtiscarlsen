@@ -11,7 +11,7 @@
 * Design Adventure
 	* [[First Classic Traveller Game#adventure design]]
 * First session
-	* [[First Classic Traveller Game#(1) Random RPG Faction Generator worldbuilding]]
+	* [[First Classic Traveller Game#we can use the pre-gen'd traveller maps galaxy]]
 	* Character Design
 		* [[Traveller - Rules#Classic Traveller]]
 	* Set Starting Scene
