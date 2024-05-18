@@ -11,10 +11,7 @@
 It took 2 months (8 search 1d6 rolls that cover one week each.)
 The patron reaction 2d6 roll was a 10, which gave a positive reaction, so Fred was hired.  I should do a some kind of haggling roll to see what Fred is payed.
 ## Pedro the Patron
-arsonist who has a contract on Cyan to set a fire in a factory.  He has a ship, but his usual pilot is ill.
-
-
-
+Pedro is a professional arsonist who has a contract on Cyan to set a fire in a factory.  He has a (stolen) ship, but his usual pilot is ill.
 # Getting to a new planet
 
 # Tracking down target
