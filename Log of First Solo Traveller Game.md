@@ -8,7 +8,7 @@
 ## Fred
 * [Fred](<file:///home/curtis/Desktop/RPG/Traveller/character sheets/fred.pdf>)
 # Finding a Patron
-page 25 of [patrons](file:///home/curtis/Desktop/RPG/Traveller/Books/ClassicTravellerLBB_1.pdf)
+page 25 of [patrons](file:///home/curtis/Desktop/RPG/Traveller/Books/ClassicTravellerLBB_3.pdf)
 It took 2 months (8 search 1d6 rolls that cover one week each.)
 The patron reaction 2d6 roll was a 10, which gave a positive reaction, so Fred was hired.  I should do a some kind of haggling roll to see what Fred is payed.
 ## Pedro the Patron
