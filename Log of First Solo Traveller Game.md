@@ -22,3 +22,7 @@ Pedro is a professional arsonist who has a contract on Cyan to set a fire in a f
 # Combat
 
 # Ship Combat
+
+# Aspects
+#RPG/Traveller
+#active
