@@ -14,6 +14,8 @@ The patron reaction 2d6 roll was a 10, which gave a positive reaction, so Fred w
 ## Pedro the Patron
 Pedro is a professional arsonist who has a contract on Cyan to set a fire in a factory.  He has a (stolen) ship, but his usual pilot is ill.
 # Getting to a new planet
+When the ship drops out of hyper,  the system patrols try to stop them, and the ship has to avoid them by hiding in the asteroid field.
+
 
 # Tracking down target
 
