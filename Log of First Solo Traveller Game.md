@@ -3,7 +3,7 @@
 * Just use the TravellerMap per [[First Classic Traveller Game#adventure design]] 
 	* Trojan Reach Sector
 	* Pax Rulin SubSector
-	* staring on planet Perrior
+	* starting on planet Perrior
 # Character Gen
 ## Fred
 * [Fred](<file:///home/curtis/Desktop/RPG/Traveller/character sheets/fred.pdf>)
