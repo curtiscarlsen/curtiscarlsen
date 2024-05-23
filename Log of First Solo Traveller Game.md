@@ -30,10 +30,11 @@ As the team leaves the area, security spots them, and the team has a quick fire 
 * no surprise either side
 * team tries to escape, rolled 9 but short range, so dm-1 giving an 8 which fails to escape.
 * 
-Fred scores a success, wounding the security guard.  The guard shoots pedro.
+Fred scores a success, wounding the security guard damage d66=35.  The guard shoots pedro.d66 = 66! Pedro is hurt bad.  If one of his stats was under 6, he's unconscious.
 Fred shoots guard again, and he goes down.
 
 # Ship Combat
+The team gets to the ship and takes off.  As they head out to the jump limit, a patrol ship finds them and takes them by surprise.
 
 # Aspects
 #RPG/Traveller
