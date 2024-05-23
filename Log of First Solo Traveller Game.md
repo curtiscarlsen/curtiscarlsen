@@ -24,11 +24,14 @@ The team needs accelerant for the fire.  They fail on first attempt at buying it
 
 # Set the fire
 Pedro set the fire: 2d6=9, success.
-As the team leaves the area, security spots them, and the team has a quick fire fight with them.
-Fred scores a success, wounding the security guard.  The guard shoots pedro.
-Fred shoots guard again, and he goes down.
 
 # Combat
+As the team leaves the area, security spots them, and the team has a quick fire fight with them.
+* no surprise either side
+* team tries to escape, rolled 9 but short range, so dm-1 giving an 8 which fails to escape.
+* 
+Fred scores a success, wounding the security guard.  The guard shoots pedro.
+Fred shoots guard again, and he goes down.
 
 # Ship Combat
 
