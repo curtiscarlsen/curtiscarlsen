@@ -14,7 +14,7 @@ The patron reaction 2d6 roll was a 10, which gave a positive reaction, so Fred w
 ## Pedro the Patron
 Pedro is a professional arsonist who has a contract on Cyan to set a fire in a factory.  He has a (stolen) ship, but his usual pilot is ill.
 # Getting to a new planet
-When the ship drops out of hyper,  the system patrols try to stop them, and the ship has to avoid them by hiding in the asteroid field. Fred uses his pilot skill to attempt to sneak by the patrol through the asteroid field.  That is a success.  There are no multi-roll skill checks that I see in the docs.
+When the ship drops out of hyper,  the system patrols try to stop them, and the ship has to avoid them by hiding in the asteroid field. Fred uses his pilot skill to attempt to hide from  the patrol through the asteroid field.  That is a success.  There are no multi-roll skill checks that I see in the docs.  The patrol searches for the ship and rolls a 7.
 
 
 # Tracking down target
