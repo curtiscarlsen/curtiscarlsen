@@ -35,6 +35,7 @@ Fred shoots guard again, and he goes down.
 
 # Ship Combat
 The team gets to the ship and takes off.  As they head out to the jump limit, a patrol ship finds them and takes them by surprise.
+the team shoots off sandcasters and runs at top speed, getting to the jump limit before the patrol disables their ship.
 
 # Aspects
 #RPG/Traveller
