@@ -13,7 +13,7 @@
 * First session
 	* [[First Classic Traveller Game#we can use the pre-gen'd traveller maps galaxy]]
 	* Character Design
-		* [[Traveller - Rules#Classic Traveller]]
+		* [[Traveller - Version Comparisons#Classic Traveller]]
 	* Set Starting Scene
 * Subsequent Sessions
 	* Synopsis
