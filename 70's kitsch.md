@@ -25,4 +25,37 @@
 * Logan's Run
 * The Man Who Fell to Earth
 * Capricorn One
-* 
+* Close Encounters of the Third Kind
+* Damnation Alley
+* Demon Seed
+* The Island of Dr Moreau
+* Star Wars
+* Star Trek the Motion Picture
+* Wizards
+* Battlestar Galactica
+* The Boys From Brazil
+* Deathsport
+* Invasion of the Body Snatchers
+* Starcrash
+* Superman
+* Alien
+* The Black Hole
+* Buck Rogers in the 25th Century
+* Mad Max
+* Moonraker
+* Phantasm
+* Star Trek the Motion Picture
+* Time After Time
+# Music
+* Disco
+# Politics
+Vietnam War/Protests
+Gay, womens, racial rights
+# Technology
+* microwaves
+* Computers
+	* Apple II
+	* TRS80
+	* Commodore PET
+	* Altair 8800
+	* Arpanet
