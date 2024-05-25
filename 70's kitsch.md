@@ -53,9 +53,19 @@ Vietnam War/Protests
 Gay, womens, racial rights
 # Technology
 * microwaves
-* Computers
+* Personal Computers
 	* Apple II
 	* TRS80
 	* Commodore PET
 	* Altair 8800
+* Larger Computers
 	* Arpanet
+	* Datapoint 2200 Terminal
+	* HP 9800 Computer
+	* IBM 1130 Minicomputer
+	* IBM  5100 Computer
+	* Cray-1 Supercomputer
+* Fashion
+	* Helmet Hair
+	* Miniskirts
+	* 
