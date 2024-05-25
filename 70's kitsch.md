@@ -68,4 +68,18 @@ Gay, womens, racial rights
 * Fashion
 	* Helmet Hair
 	* Miniskirts
-	* 
+* Literature
+	* Space Opera
+	* Intellectual Sci Fi
+	* Tropes
+		* Anti-Heros
+		* Dystopia
+		* Inner Monologue
+		* Free love Future
+* Food
+	* Howard Johnson's
+	* Wendy's
+	* Pizza Hut
+	* H. Salt Fish and Chips
+	* Taco Bell
+	* Orange Julius
