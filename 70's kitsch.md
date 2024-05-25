@@ -1,4 +1,5 @@
-# Movies
+# Movies (Sci Fi)
+* Star Trek (TOS, 1966 - 1969)
 * Alien
 * Planet of the Apes
 * Zardoz
@@ -30,7 +31,6 @@
 * Demon Seed
 * The Island of Dr Moreau
 * Star Wars
-* Star Trek the Motion Picture
 * Wizards
 * Battlestar Galactica
 * The Boys From Brazil
@@ -50,6 +50,7 @@
 * Disco
 # Politics
 Vietnam War/Protests
+Watergate
 Gay, womens, racial rights
 # Technology
 * microwaves
@@ -69,6 +70,10 @@ Gay, womens, racial rights
 	* Helmet Hair
 	* Miniskirts
 * Literature
+	* Are You there, God?  It's Me.
+	* The Joy of Sex
+	* Fear and Loathing in Las Vegas
+	* All the President's Men
 	* Space Opera
 	* Intellectual Sci Fi
 	* Tropes
