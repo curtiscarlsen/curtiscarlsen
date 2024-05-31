@@ -55,7 +55,7 @@ sort by description
 # explain
 ```
 
-## All Pending Tasks
+## **------ All Pending Tasks  ------**
 ```tasks
 # Only tasks that are not done, that is, which begin like this (but without the quotes):
 #   '- [ ] ' or
