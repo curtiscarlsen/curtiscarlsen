@@ -4,6 +4,8 @@
 	* Trojan Reach Sector
 	* Pax Rulin SubSector
 	* starting on planet Perrior
+# Starting Location
+Perrior
 # Character Gen
 ## Fred
 * [Fred](<file:///home/curtis/Desktop/RPG/Traveller/character sheets/fred.pdf>)
