@@ -1,6 +1,3 @@
-# Tasks Started or Due Now
-
-
 ## Tasks Started or Due Now
 ```tasks
 			# Only tasks that are not done, that is, which begin like this (but without the quotes):
