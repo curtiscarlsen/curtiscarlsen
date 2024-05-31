@@ -35,8 +35,8 @@
 # Indented tasks are supported, but only single-line tasks.
 not done
 
-# Tasks due after today:
-(due after today) OR (no due date)
+# Tasks started and due after today:
+((starts after today) OR (no start date)) AND ((due after today) OR (no due date))
 
 # Restrict to at most 100 tasks.
 # If you ask Tasks to display many hundreds or thousands of tasks,
