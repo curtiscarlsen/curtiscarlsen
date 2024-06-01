@@ -25,5 +25,8 @@ Patrons are a specific type of NPC, see encounters in LBB3 p25.  The search for 
 It took two months for Fred to find a patron (8th roll).
 D66 roll was 11 which means patron is an Arsonist. (from Patron Encounters table on P27)
 
+## Motivation
+Traveller has institutional debt, an emphasis on trading as motivations for flying spaceships through space and interacting with aliens.
+
 # Aspects
 [[MOC - rpgs]]
