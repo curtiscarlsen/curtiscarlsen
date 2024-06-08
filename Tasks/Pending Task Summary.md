@@ -1,3 +1,31 @@
+## Urgent/Active Tasks
+
+```tasks
+(Description regex matches /#now/)
+			# Only tasks that are not done, that is, which begin like this (but without the quotes):
+			#   '- [ ] ' or
+			#   '* [ ] ' or
+			#   '1. [ ] '
+			# Indented tasks are supported, but only single-line tasks.
+			not done
+
+			# Tasks due today or earlier:
+			 (due before tomorrow) OR ((starts before tomorrow) AND  (has start date))
+			
+			# Restrict to at most 100 tasks.
+			# If you ask Tasks to display many hundreds or thousands of tasks,
+			# Obsidian's editing performance really slows down.
+			limit 100
+			
+			# Group and sort the output:
+            sort by priority
+			sort by status
+			sort by description
+			
+			# Optionally, ask Tasks to explain how it interpreted this query:
+			# explain
+```
+
 ## Tasks Started or Due Now
 ```tasks
 			# Only tasks that are not done, that is, which begin like this (but without the quotes):
