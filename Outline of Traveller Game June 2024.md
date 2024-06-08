@@ -4,6 +4,8 @@
 * Genre: Road Trip (firefly rip-off)
 * Final Goal: Get rid of the dangerous cargo
 * Requirements:  Someone has to have a ship
+## Starting World
+Perrin
 ## Factions
 
 ## Plot Points
