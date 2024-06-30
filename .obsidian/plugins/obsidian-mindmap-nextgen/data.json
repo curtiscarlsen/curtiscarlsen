@@ -1,14 +1,6 @@
 {
   "version": "2.0",
-  "layout": [
-    null,
-<<<<<<< HEAD
-=======
-    null,
-    null,
->>>>>>> desktop
-    null
-  ],
+  "layout": [],
   "settings": {
     "splitDirection": "horizontal",
     "nodeMinHeight": 16,
