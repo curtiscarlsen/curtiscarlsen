@@ -20,7 +20,7 @@ plot:
     change: 
 data: 
   synopsis: 
-  complete: false
+  complete: true
 ```
 ```RpgManager
 models: 
