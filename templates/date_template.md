@@ -1,4 +1,4 @@
 {{date}}
 
 #templated
-[[MOC - te]]
+[[MOC - Software Projects]]

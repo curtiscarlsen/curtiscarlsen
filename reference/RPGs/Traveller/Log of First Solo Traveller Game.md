@@ -42,3 +42,5 @@ the team shoots off sandcasters and runs at top speed, getting to the jump limit
 # Aspects
 #RPG/Traveller
 #active
+
+[[MOC - rpgs]]
