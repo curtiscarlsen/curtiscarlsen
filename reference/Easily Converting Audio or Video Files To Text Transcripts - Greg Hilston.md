@@ -33,7 +33,9 @@ This tool would be a great candidate for leveraging a Dockerized environment. Ad
 ## Easily Converting Audio or Video Files To Text Transcripts - Greg Hilston
 URL: https://www.greghilston.com/post/audio-or-video-to-text/
 
-- I've installed whisper on boyo64 using instructions on this page.  It went without issue.  **I have not yet tested the operation of whisper**
+- I've installed whisper on boyo64 using instructions on this page.  It went without issue.  **I have not yet tested the operation of whisper
+- whisper is installet in ~/sandbox/transcripts
+- 
 
 
 #reference/software/ubuntu 
