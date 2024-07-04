@@ -6,4 +6,4 @@ novel_section_status_changes::??
 novel_section_pacing::??
 
 
-[[wri]]
+[[MOC - Writing]]

@@ -22,3 +22,6 @@ page-title:
 - Curtis Lazy & Lorri working full time at Church
 - Sweetpea experimenting with fertilizers
 - Boo growing catnip, using mice to harvest it.
+
+
+[[MOC - Writing]]

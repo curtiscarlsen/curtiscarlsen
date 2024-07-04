@@ -8,3 +8,5 @@ All skills are handled uniquely.  You really need to read the skill description 
 
 # Space travel
 ## all in 2D.  To simplify playing with miniatures on a hex grid
+
+[[MOC - rpgs]]

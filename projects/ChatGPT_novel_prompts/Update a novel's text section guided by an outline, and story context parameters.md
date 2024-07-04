@@ -15,3 +15,5 @@ focused outline elements: 1.1, 1.2
 
 Inspiration:
 Jack London exited his tent at dawn.  But as he straightened up, his trusty dog Fido sank its fangs into his derriere.  Shouting obscenities, London drew his revolver and shot the animal.  
+
+[[MOC - Writing]]
