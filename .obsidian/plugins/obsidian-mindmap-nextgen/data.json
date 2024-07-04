@@ -1,6 +1,12 @@
 {
   "version": "2.0",
   "layout": [
+    null,
+<<<<<<< HEAD
+=======
+    null,
+    null,
+>>>>>>> desktop
     null
   ],
   "settings": {
