@@ -43,3 +43,5 @@ Passing the derived class to a base class as a template parameter.  This allows 
 * Can be used to implement static mixin classes.
 
 
+#reference/software/cpp 
+[[MOC - Software Design]]

@@ -1,3 +1,4 @@
 Google Drive allows putting comments into bitmapped pdf files, so I can annotate sections of the LBB's with comment text, and drive supports urls that link directly to the comments in the pdf, so I can create external tables of contents by copyin the urls for all of the comments into chrome bookmarks.  I can either use the bookmarks directly or export them to an html file, edit out all of my other bookmarks from the html source, and then load it as a web page into chrome,and it works nicely as a table of contents sheet.
 * google drive does not seem to serve html files properly, links don't seem to work, so I had to download the html from drive to local drive.  that works fine.  I then made a bookmark of the html file so I could call it up easily in chrome.
-* 
+
+[[MOC - rpgs]]

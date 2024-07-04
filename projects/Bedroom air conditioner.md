@@ -5,3 +5,8 @@
 - Rating?
 
 - Ultra quiet
+
+
+#chores/house/appliances 
+[[MOC - chores]]
+[[MOC - House]]

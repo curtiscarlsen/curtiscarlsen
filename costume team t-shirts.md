@@ -7,3 +7,6 @@
 - "VINTAGE" - "Veterans in Nostalgic Timeless Attire, Grandly Eccentric"
 - "RETRO" - "Retirees Embracing Timeless Retro Outfits"
 - "GRAY" - "Grandfathers Rocking Aged Yesteryear-wear"
+
+
+[[MOC - cosplay]]
