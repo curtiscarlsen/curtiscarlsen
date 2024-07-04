@@ -1,0 +1,1 @@
+https://jerichowriters.com/how-to-plot-a-novel/

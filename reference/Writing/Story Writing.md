@@ -1,5 +1,5 @@
 * [[Story Research]]
-* plotting (outline)
+* [[plotting (outline)]]
 * editing the narrative
 * writing ad copy
 * publishing
