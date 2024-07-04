@@ -105,3 +105,7 @@ print ("story prompt: ", s.getUpdatePrompt(0) )
 #     print()  
 #     response2 = model.generate('why is the sky blue?')  
 #     print(response2)
+
+[[MOC - Writing]]
+
+[[MOC - Software Tools]]

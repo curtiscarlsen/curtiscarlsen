@@ -19,4 +19,8 @@ At some point the crate is discovered busted open.  Investigation shows that it 
 The thing in the crate is a mutant lion.  It will pilfer meat from the kitchen, and hunt crew if it can't get enough.
 * Crew has to figure a way to get rid of the thing
 
-# 
+# links
+
+#RPG/Traveller 
+
+[[MOC - rpgs]]

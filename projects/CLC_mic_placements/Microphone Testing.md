@@ -7,3 +7,6 @@
 - There are two tall mic stands in the mic closet by side sanctuary entry door that can be used.
 - If we can find spare cables, we can just disconnect choir mics, move them to the spare stands and spare cables without changing the regular cabling stand setup, and then move them back at the end of rehearsal.
 ![[Pasted image 20231008174409.png]]
+
+#chores 
+[[moc - mic_placement]]

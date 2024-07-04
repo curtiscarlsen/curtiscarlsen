@@ -15,3 +15,5 @@ URL: https://www.shimspine.com/exercise-can-relieve-spinal-stenosis/#:~:text=The
 
 
 [[mindmap Spinal Stenosis]]
+
+[[MOC - health]]

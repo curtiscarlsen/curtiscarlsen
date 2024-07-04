@@ -4,3 +4,5 @@ novel_theme::Love and Honor=
 novel_pacing::fast
 ********************************
 A romantic fantasy that takes place on the battlefield between Light and Dark.
+
+[[MOC - Writing]]

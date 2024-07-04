@@ -25,3 +25,5 @@ On Linux, only choice is OBS.
 * higher learning curve
 * Uses more resources than OBS
 * only on windows
+
+[[moc - streaming]]

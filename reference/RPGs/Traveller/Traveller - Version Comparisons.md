@@ -16,4 +16,5 @@ file:///home/curtis/Desktop/RPG/Traveller/Books/Classic_Facsimile_RePrint_v3_162
 * The latest version is generally considered one of the easiest to start with. (Mongoose publishing, 2022 update, )
 	* Core rulebook on drivethruRpg ($18):  https://preview.drivethrurpg.com/en/product/374454/Traveller-Core-Rulebook-Update-2022
 	* Other rulebooks: https://www.mongoosepublishing.com/collections/start-here
-* 
+
+[[MOC - rpgs]]
