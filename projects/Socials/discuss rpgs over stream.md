@@ -3,6 +3,7 @@
 - Stealing Stories
 - Playing over Discord
 - Playing over OwlbearRodeo
+- Classic Traveller
 
 # Aspects
 
