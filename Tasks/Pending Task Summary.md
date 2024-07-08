@@ -1,4 +1,4 @@
-## Urgent/Active Tasks
+# **Urgent/Active Tasks**
 
 ```tasks
 (Description regex matches /#now/)
@@ -26,7 +26,7 @@
 			# explain
 ```
 
-## Tasks Started or Due Now
+# **Tasks Started or Due Now**
 ```tasks
 			# Only tasks that are not done, that is, which begin like this (but without the quotes):
 			#   '- [ ] ' or
@@ -53,7 +53,7 @@
 ```
 
 
-## Tasks Not started
+# **Tasks Not started
 
 ```tasks
 # Only tasks that are not done, that is, which begin like this (but without the quotes):
@@ -80,7 +80,7 @@ sort by description
 # explain
 ```
 
-## **------ All Pending Tasks  ------**
+# **------ All Pending Tasks  ------**
 ```tasks
 # Only tasks that are not done, that is, which begin like this (but without the quotes):
 #   '- [ ] ' or
