@@ -71,8 +71,7 @@ not done
 limit 100
 
 # Group and sort the output:
-group by filename
-sort by due reverse
+sort by filename reverse
 sort by description
 
 # Optionally, ask Tasks to explain how it interpreted this query:
@@ -97,8 +96,7 @@ not done
 limit 100
 
 # Group and sort the output:
-group by filename
-sort by due reverse
+sort by filename reverse
 sort by description
 
 # Optionally, ask Tasks to explain how it interpreted this query:
