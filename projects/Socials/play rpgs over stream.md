@@ -6,6 +6,7 @@
 	- DND3.5e
 	- ADND
 	- Stealing Stories
+	- Classic Traveller
 - find players
 - advertise
 - practice streaming session on YouTube or twitch
