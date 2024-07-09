@@ -18,9 +18,9 @@
 			limit 100
 			
 			# Group and sort the output:
-            sort by priority
-			sort by status
-			sort by description
+            group by priority
+			sort by due reverse
+			sort by filename reverse
 			
 			# Optionally, ask Tasks to explain how it interpreted this query:
 			# explain
