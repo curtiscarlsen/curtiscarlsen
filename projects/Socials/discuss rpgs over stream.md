@@ -10,13 +10,18 @@
 	- cam stand: microphone stand?  Wooden widget?
 	- PC - Dusty's old machine already in garage
 	- lighting: may need some extra/different lighting for decent picture
-	- 
+	- microphone - just use 
 - Living room
-	- webcam on boyo64PC
+	- webcam on boyo64 PC
 	- Existing lighting probably fine for starters
 - Software
 	- discord?
-	- obs studio over 
+	- obs studio over Twitch?
+	- YouTube?
+	- discord shared over Twitch or youtube?
+	- Transcriptions?
+- publishing/advertising my content
+- Selling Ads
 # Aspects
 
 [[MOC - SocialStuff]]
