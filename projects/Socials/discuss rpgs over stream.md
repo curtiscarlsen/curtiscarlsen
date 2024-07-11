@@ -10,7 +10,7 @@
 	- cam stand: microphone stand?  Wooden widget?
 	- PC - Dusty's old machine already in garage
 	- lighting: may need some extra/different lighting for decent picture
-	- microphone - just use 
+	- microphone - just use Shokz headset
 - Living room
 	- webcam on boyo64 PC
 	- Existing lighting probably fine for starters
