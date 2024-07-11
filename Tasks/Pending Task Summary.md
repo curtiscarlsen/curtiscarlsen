@@ -8,9 +8,6 @@
 			#   '1. [ ] '
 			# Indented tasks are supported, but only single-line tasks.
 			not done
-
-			# Tasks due today or earlier:
-			 (due before tomorrow) OR ((starts before tomorrow) AND  (has start date))
 			
 			# Restrict to at most 100 tasks.
 			# If you ask Tasks to display many hundreds or thousands of tasks,
