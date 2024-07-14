@@ -20,7 +20,7 @@
 	- YouTube?
 	- discord shared over Twitch or youtube?
 	- Transcriptions?
-- publishing/advertising my content
+- publishing/advertising content
 - Selling Ads
 # Aspects
 
