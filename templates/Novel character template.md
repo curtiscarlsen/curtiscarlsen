@@ -1,10 +1,11 @@
 
 pchar_name::{{title}}
 pchar_date{{}}
-pchar_desc::
-pchar_role::?
-Pchar_home::
+pchar_age::
+pchar_role::
+pchar_home::
 pchar_original_home::
+pchar_desc::
 
 
 
