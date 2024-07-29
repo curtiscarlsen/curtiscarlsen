@@ -1,4 +1,4 @@
-Mnovel_title::??
+novel_title::??
 novel_genre::??
 novel_theme::??
 novel_pacing::??
