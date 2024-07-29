@@ -1,5 +1,9 @@
 
 ```python
 for i in range(10):
-	print("I is {}".format(i))
+	print("i is: ", i)
+```
+
+```run-python
+print("hello world!")
 ```
