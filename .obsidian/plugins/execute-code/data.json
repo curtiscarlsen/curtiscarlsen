@@ -21,7 +21,7 @@
   "csPath": "dotnet-script",
   "csArgs": "",
   "csInject": "",
-  "pythonPath": "/usr/bin/python",
+  "pythonPath": "/usr/bin/python3",
   "pythonArgs": "",
   "pythonEmbedPlots": true,
   "pythonInject": "",
