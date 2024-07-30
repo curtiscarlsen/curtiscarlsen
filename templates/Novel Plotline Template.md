@@ -6,4 +6,4 @@ plotline_end_datetime::
 Plotline Description:
 
 
-[[MOC - Writing]]
+[[moc - novels]]

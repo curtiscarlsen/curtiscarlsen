@@ -1,7 +1,7 @@
 motif_name::{{title}}
 motif_date{{}}
-----
-motif Description
+
+Motif Description
 
 
 
