@@ -5,7 +5,9 @@ pchar_age::
 pchar_role::
 pchar_home::
 pchar_original_home::
-pchar_desc::
+
+************************************
+Character Descriptiuon:
 
 
 
