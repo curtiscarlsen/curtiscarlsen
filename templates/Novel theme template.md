@@ -1,6 +1,10 @@
 theme_name::{{title}}
-theme_date{{date}}
-theme_desc::
+theme_date::{{date}}
+
+********
+
+Theme Description:
+
 
 
 

@@ -1,4 +1,3 @@
-
 pchar_name::{{title}}
 pchar_date{{}}
 pchar_age::
