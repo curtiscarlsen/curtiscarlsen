@@ -1,5 +1,5 @@
 motif_name::{{title}}
-motif_date{{}}
+motif_date::{{}}
 
 Motif Description
 

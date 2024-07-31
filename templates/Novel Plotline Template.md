@@ -1,6 +1,6 @@
 plotline_title::{{title}}
-plotline_start_datetime::
-plotline_end_datetime::
+plotline_start_point::
+plotline_end_point::
 
 ************************************
 Plotline Description:

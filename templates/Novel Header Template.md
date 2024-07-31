@@ -1,6 +1,6 @@
 novel_title::
 novel_genre::
-novel_theme::
+novel_style::
 novel_pacing::
 
 ********
