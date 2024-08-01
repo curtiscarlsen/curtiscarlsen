@@ -1,4 +1,4 @@
-theme_name::{{title}}
+ theme_name::{{title}}
 theme_date::{{date}}
 theme_cast::
 ********
