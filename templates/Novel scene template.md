@@ -1,5 +1,5 @@
 pchar_name::{{title}}
-pchar_date::{{}}
+pchar_date::{{date}}
 pchar_age::
 pchar_role::
 pchar_home::
