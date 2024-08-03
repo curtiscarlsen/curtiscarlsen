@@ -12,5 +12,5 @@
 ## garage
 
 
-# fun stuff
-- [ ] write 3 pages or outline 3 plotsegs [repeat:: every day ] [priority:: medium]  #now 
+## fun stuff
+- [ ] write 3 pages or outline 3 plotsegs #cooldown  [repeat:: every day ] [priority:: medium]  #now 

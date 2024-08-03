@@ -1,7 +1,8 @@
-# **Urgent/Active Tasks**
+# **Urgent/Active/Now Tasks**
 
 ```tasks
 (Description regex matches /#now/)
+(Description regex does not match /#cooldown/)
 			# Only tasks that are not done, that is, which begin like this (but without the quotes):
 			#   '- [ ] ' or
 			#   '* [ ] ' or
