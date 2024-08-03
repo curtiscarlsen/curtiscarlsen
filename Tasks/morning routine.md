@@ -1,0 +1,10 @@
+- turn on attic fan
+- feed cats
+- feed outsides
+- breakfast 
+- Take pills 
+- shower
+- back stretches
+- wash dishes
+- read email
+- 
