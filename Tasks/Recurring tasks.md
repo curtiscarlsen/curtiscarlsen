@@ -1,0 +1,16 @@
+# chores
+## dishes
+
+- [ ] dishes #chores/house #now  [repeat:: every day]  [priority:: high] [created:: 2024-08-03]  [due:: 2024-08-09]
+- [x] dishes #chores/house #now  [repeat:: every day]  [created:: 2024-08-03]  [due:: 2024-08-08]  [completion:: 2024-08-03]
+- [x] dishes #chores/house #now  [repeat:: every day]  [created:: 2024-08-03]  [due:: 2024-08-07]  [completion:: 2024-08-03]
+- [x] dishes #chores/house #now  [repeat:: every day]  [created:: 2024-08-03]  [due:: 2024-08-06]  [completion:: 2024-08-03]
+- [x] dishes #chores/house #now  [repeat:: every day]  [created:: 2024-08-03]  [due:: 2024-08-05]  [completion:: 2024-08-03]
+- [x] dishes #chores/house #now  [repeat:: every day]  [created:: 2024-08-03]  [due:: 2024-08-04]  [completion:: 2024-08-03]
+- [x] dishes #chores/house #now  [repeat:: every day]  [due:: 2024-08-03]  [completion:: 2024-08-03]
+
+## garage
+
+
+# fun stuff
+- [ ] write 3 pages or outline 3 plotsegs [repeat:: every day ] [priority:: medium]  #now 
