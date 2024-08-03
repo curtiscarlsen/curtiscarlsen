@@ -3,6 +3,8 @@
 - feed outsides
 - breakfast 
 - Take pills 
+- rinse nose
+- nose drops
 - shower
 - back stretches
 - wash dishes
