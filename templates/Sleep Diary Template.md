@@ -1,4 +1,4 @@
-<% tp.file.rename("SleepDiary - " + tp.date.now()) %>
+`<% tp.file.move("statusData/Health/SleepDiary/" + "SleepDiary - " + tp.date.now()) %>`
 Entry Date::{{date}}
 # Evening Supplements (night before)
 Dosage Time::21:00
