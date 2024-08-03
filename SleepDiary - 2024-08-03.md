@@ -16,6 +16,7 @@ FatigueLevel:: 1
 ### Anxiety Level (Negative though loops, anxiety, 0 -10, 0 is good, 10 is awful)
 Anxiety:1
 
-## Notes Going Forward
+# Notes Going Forward
+- try taking .5mg delayed release melatonin with gapabentin and Mg at 9:00 or 8:00?
 #sleepdiary
 #health 
