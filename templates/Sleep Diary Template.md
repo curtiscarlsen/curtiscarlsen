@@ -1,3 +1,4 @@
+<% tp.file.rename("SleepDiary - " + tp.date.now()) %>
 Entry Date::{{date}}
 # Evening Supplements (night before)
 Dosage Time::21:00
@@ -15,3 +16,5 @@ FatigueLevel:: 1
 ### Anxiety Level (Negative though loops, anxiety, 0 -10, 0 is good, 10 is awful)
 Anxiety:1
 
+#sleepdiary
+#health 

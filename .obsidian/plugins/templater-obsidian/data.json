@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "statusData/SleeDiary",
+      "template": "templates/Sleep Diary Template.md"
     }
   ],
   "syntax_highlighting": true,
