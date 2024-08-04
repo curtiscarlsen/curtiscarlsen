@@ -5,7 +5,7 @@ Supplements::(Gabapentin, 900mg),(Melatonin, 0.5mg), (Magnesium, 400mg)
 Nod-Off Time:23:00
 # Morning
 Morning Dosage Time:: N/A
-Supplements::(Nothing)
+Supplements:: (D3, 2)
 ## Morning Symptoms
 WakeTime::8:00
 ### Sedation Level (feeling sleepy, 0 -10, 0 is good, 10 is awful) 
