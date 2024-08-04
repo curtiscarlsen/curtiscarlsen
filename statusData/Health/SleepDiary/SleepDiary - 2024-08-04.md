@@ -13,7 +13,7 @@ WakeTime::7:00
 SedationLevel:: 4
 ### Fatigue Level (Lack of Energy, 0 -10, 0 is good, 10 is awful) 
 FatigueLevel:: 3
-### Anxiety Level (Negative though loops, anxiety, 0 -10, 0 is good, 10 is awful)
+### Anxiety Level (Negative thought loops, depression), 0 -10, 0 is good, 10 is awful)
 Anxiety:1
 
 # Notes Going Forward

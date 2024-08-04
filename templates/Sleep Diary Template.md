@@ -11,9 +11,9 @@ Supplements:: (D3, 2000mg), (B Complex, 1pill), (Mg 200mg),  (ibuprofen, 2 pills
 WakeTime::7:00
 ### Sedation Level (feeling sleepy, 0 -10, 0 is good, 10 is awful) 
 SedationLevel:: 
-### Fatigue Level (Lack of Energy, 0 -10, 0 is good, 10 is awful) 
+### Fatigue Level (Lack of Energy, 0-10, 0 is good, 10 is awful) 
 FatigueLevel:: 
-### Anxiety Level (Negative though loops, anxiety, 0 -10, 0 is good, 10 is awful)
+### Anxiety Level (Negative though loops, feeling overwhelmed), 0-10, 0 is good, 10 is awful)
 Anxiety:: 
 
 # Notes Going Forward
