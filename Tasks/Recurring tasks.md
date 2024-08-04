@@ -12,7 +12,7 @@
 - [x] dishes #chores/house #now  [repeat:: every day]  [due:: 2024-08-03]  [completion:: 2024-08-03]
 
 ## Cooking
-- [ ] lemon curd  [repeat:: every week on Saturday start:: 2024-08-10]  #cooldown 
+- [x] lemon curd  [repeat:: every week on Saturday start:: 2024-08-10] #cooldown  [completion:: 2024-08-04]
 - [ ] dry lemons  [repeat:: every week on Saturday start:: 2024-08-10]  #cooldown 
 
 ## garage
