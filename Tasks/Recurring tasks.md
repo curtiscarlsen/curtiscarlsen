@@ -1,7 +1,8 @@
 # chores
 ## dishes
 
-- [ ] dishes #chores/house #now  [priority:: high]  [repeat:: every day]  [created:: 2024-08-03]  [due:: 2024-08-11]
+- [ ] dishes #chores/house #now  [priority:: high]  [repeat:: every day]  [created:: 2024-08-04]  [due:: 2024-08-12]
+- [x] dishes #chores/house #now  [priority:: high]  [repeat:: every day]  [created:: 2024-08-03]  [due:: 2024-08-11]  [completion:: 2024-08-04]
 - [x] dishes #chores/house #now  [priority:: high]  [repeat:: every day]  [created:: 2024-08-03]  [due:: 2024-08-10]  [completion:: 2024-08-03]
 - [x] dishes #chores/house #now  [priority:: high]  [repeat:: every day]  [created:: 2024-08-03]  [due:: 2024-08-09]  [completion:: 2024-08-03]
 - [x] dishes #chores/house #now  [repeat:: every day]  [created:: 2024-08-03]  [due:: 2024-08-08]  [completion:: 2024-08-03]

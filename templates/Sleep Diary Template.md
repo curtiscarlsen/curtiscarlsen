@@ -1,5 +1,5 @@
 `<% tp.file.move("statusData/Health/SleepDiary/" + "SleepDiary - " + tp.date.now()) %>`
-Entry Date::{{date}}
+Entry Date::<%tp.date.now()%>
 # Evening Supplements (night before)
 Dosage Time::21:00
 Supplements::(Gabapentin, 900mg),(Melatonin, 0.5mg), (Magnesium, 400mg)
